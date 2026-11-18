@@ -1,0 +1,224 @@
+// RadiologAI — Ta'lim
+// SQLite for the hackathon. To stay Postgres-compatible we use String columns for
+// enum-like values (validated with zod in src/lib/types.ts) and String columns holding
+// JSON (Prisma 5 has no Json/enum support on SQLite). On Postgres these can be switched
+// to native `enum` / `Json` without changing application code.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id           String       @id @default(cuid())
+  name         String
+  email        String       @unique
+  passwordHash String
+  role         String // STUDENT | TEACHER | DOCTOR
+  groupId      String?
+  group        Group?       @relation("GroupMembers", fields: [groupId], references: [id], onDelete: SetNull)
+  createdAt    DateTime     @default(now())
+  teaching     Group[]      @relation("GroupTeacher")
+  cases        Case[]
+  submissions  Submission[]
+  studies      Study[]
+  auditLogs    AuditLog[]
+}
+
+model Group {
+  id          String       @id @default(cuid())
+  name        String
+  code        String       @unique // join code used on /register
+  teacherId   String
+  teacher     User         @relation("GroupTeacher", fields: [teacherId], references: [id], onDelete: Cascade)
+  members     User[]       @relation("GroupMembers")
+  assignments Assignment[]
+  createdAt   DateTime     @default(now())
+}
+
+model Case {
+  id                String          @id @default(cuid())
+  title             String
+  modality          String // XRAY | CT | MRI
+  bodyRegion        String
+  difficulty        String // EASY | MEDIUM | HARD
+  clinicalInfo      String
+  referenceReport   String
+  referenceFindings String // JSON: ReferenceFindings
+  tags              String          @default("[]") // JSON: string[]
+  isPublished       Boolean         @default(false)
+  createdById       String
+  createdBy         User            @relation(fields: [createdById], references: [id], onDelete: Cascade)
+  createdAt         DateTime        @default(now())
+  updatedAt         DateTime        @updatedAt
+  images            CaseImage[]
+  regions           FindingRegion[]
+  submissions       Submission[]
+}
+
+model CaseImage {
+  id      String          @id @default(cuid())
+  caseId  String
+  case    Case            @relation(fields: [caseId], references: [id], onDelete: Cascade)
+  url     String
+  order   Int
+  label   String?
+  /// mm / piksel (DICOM PixelSpacing) — chizg'ich bilan o'lchash uchun; oddiy rasmlarda bo'sh
+  pixelSpacing Float?
+  regions FindingRegion[]
+}
+
+model FindingRegion {
+  id         String    @id @default(cuid())
+  caseId     String
+  case       Case      @relation(fields: [caseId], references: [id], onDelete: Cascade)
+  imageId    String
+  image      CaseImage @relation(fields: [imageId], references: [id], onDelete: Cascade)
+  findingKey String
+  x          Float
+  y          Float
+  width      Float
+  height     Float
+}
+
+model Assignment {
+  id           String       @id @default(cuid())
+  title        String
+  groupId      String
+  group        Group        @relation(fields: [groupId], references: [id], onDelete: Cascade)
+  caseIds      String       @default("[]") // JSON: string[]
+  mode         String       @default("PRACTICE") // PRACTICE | EXAM
+  timeLimitMin Int?
+  startsAt     DateTime
+  endsAt       DateTime
+  showFeedback Boolean      @default(true)
+  createdAt    DateTime     @default(now())
+  submissions  Submission[]
+}
+
+model Submission {
+  id           String      @id @default(cuid())
+  studentId    String
+  student      User        @relation(fields: [studentId], references: [id], onDelete: Cascade)
+  caseId       String
+  case         Case        @relation(fields: [caseId], references: [id], onDelete: Cascade)
+  assignmentId String?
+  assignment   Assignment? @relation(fields: [assignmentId], references: [id], onDelete: SetNull)
+  reportText   String
+  durationSec  Int         @default(0)
+  score        Int?
+  evaluation   String? // JSON: Evaluation
+  error        String?
+  status       String      @default("PENDING") // PENDING | DONE | ERROR
+  createdAt    DateTime    @default(now())
+
+  @@index([studentId])
+  @@index([caseId])
+}
+
+// ---------------------------------------------------------------------------
+// Shifokor yordamchisi — mammografiya xulosa qoralamasi
+// ---------------------------------------------------------------------------
+
+model Study {
+  id           String       @id @default(cuid())
+  code         String       @unique // anonim kod, masalan MG-2026-0001
+  doctorId     String
+  doctor       User         @relation(fields: [doctorId], references: [id], onDelete: Cascade)
+  patientAge   Int?
+  patientSex   String       @default("F")
+  indication   String       @default("SCREENING") // SCREENING | DIAGNOSTIC
+  clinicalInfo String       @default("")
+  priorStudyId String?
+  /// Demo/baholash uchun: dataset yorlig'i JSON {label, abnormality, source} (klinikada bo'sh)
+  groundTruth  String?
+  status       String       @default("UPLOADED") // UPLOADED | DRAFTING | DRAFT_READY | NEEDS_ATTENTION | IN_REVIEW | APPROVED | ERROR
+  error        String?
+  createdAt    DateTime     @default(now())
+  updatedAt    DateTime     @updatedAt
+  images       StudyImage[]
+  drafts       Draft[]
+  report       Report?
+  auditLogs    AuditLog[]
+
+  @@index([doctorId])
+}
+
+model StudyImage {
+  id           String   @id @default(cuid())
+  studyId      String
+  study        Study    @relation(fields: [studyId], references: [id], onDelete: Cascade)
+  file         String // storage/mammo ichidagi fayl nomi (to'liq o'lcham PNG)
+  aiFile       String // AI uchun kichraytirilgan JPEG
+  originalName String
+  sourceFormat String // DICOM | PNG | JPG | WEBP
+  laterality   String // R | L
+  view         String // CC | MLO | OTHER
+  width        Int
+  height       Int
+  pixelSpacing Float?
+  order        Int      @default(0)
+  createdAt    DateTime @default(now())
+
+  @@index([studyId])
+}
+
+model Draft {
+  id                String   @id @default(cuid())
+  studyId           String
+  study             Study    @relation(fields: [studyId], references: [id], onDelete: Cascade)
+  version           Int
+  source            String // AI | OFFLINE
+  model             String
+  effort            String
+  payload           String // JSON: MammoDraft
+  renderedText      String
+  overallConfidence Float
+  gated             Boolean  @default(false)
+  revealed          Boolean  @default(false) // shifokor "baribir ko'rsatish" ni bosgan
+  latencyMs         Int
+  inputTokens       Int?
+  outputTokens      Int?
+  /// MODEL dvigateli: ML xizmati javobi (ehtimollar, zichlik, CAM sohalari, issiqlik xaritalari) JSON
+  engineResult      String?
+  createdAt         DateTime @default(now())
+  reports           Report[]
+
+  @@index([studyId])
+}
+
+model Report {
+  id           String    @id @default(cuid())
+  studyId      String    @unique
+  study        Study     @relation(fields: [studyId], references: [id], onDelete: Cascade)
+  draftId      String?
+  draft        Draft?    @relation(fields: [draftId], references: [id], onDelete: SetNull)
+  payload      String // JSON: ReportPayload (shifokor tahrirlagan MammoDraft + ko'rib chiqish holatlari)
+  text         String
+  status       String    @default("IN_REVIEW") // IN_REVIEW | APPROVED
+  approvedById String?
+  approvedAt   DateTime?
+  editStats    String? // JSON: EditStats
+  sentCaseId   String? // ta'lim uchun yaratilgan Case
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+}
+
+/// Faqat qo'shiladi — o'zgartirish/o'chirish kodi yo'q.
+model AuditLog {
+  id        String   @id @default(cuid())
+  studyId   String?
+  study     Study?   @relation(fields: [studyId], references: [id], onDelete: SetNull)
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  action    String
+  details   String   @default("{}") // JSON
+  createdAt DateTime @default(now())
+
+  @@index([studyId])
+  @@index([createdAt])
+}

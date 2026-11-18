@@ -1,0 +1,598 @@
+[
+  {
+    "source": "IU-Xray",
+    "sourceId": "CXR2401_IM-0950",
+    "title": "Normal ko'krak qafasi rentgenogrammasi (IU)",
+    "modality": "XRAY",
+    "bodyRegion": "Ko'krak qafasi",
+    "difficulty": "EASY",
+    "clinicalInfo": "Ko'krak qafasi rentgenogrammasi (to'g'ri va yon proyeksiya). Klinik anamnez ma'lumotlar to'plamida berilmagan.\nManba: Indiana University Chest X-ray Collection (NLM Open-i), CXR2401_IM-0950. Tavsif radiologning asl inglizcha xulosasidan tarjima qilingan; xulosa va tavsiya shu tavsif asosida tuzilgan.",
+    "tags": [
+      "norma",
+      "haqiqiy rentgen"
+    ],
+    "referenceReport": "Texnika: Ko'krak qafasi organlari rentgenogrammasi, to'g'ri va yon proyeksiyalar.\nTavsif: Yurak-mediastinal soya o'lchami va shakli me'yorida. O'pka qon tomir rasmi o'zgarishsiz. O'pkalar to'liq yoyilgan, havo bo'shliqlari kasalligi (infiltratsiya) belgilari yo'q. Pnevmotoraks, plevral suyuqlik va pnevmoperitoneum aniqlanmaydi. Suyaklarni cheklangan baholashda o'tkir o'zgarish yo'q.\nXulosa: Ko'krak qafasi organlarida o'tkir patologik o'zgarishlar aniqlanmadi.\nTavsiya: Qo'shimcha tekshiruv talab etilmaydi.\n\nRadiologning asl matni (ingliz tilida): Cardiomediastinal silhouette is within normal limits of size and appearance. The pulmonary vascularity is unremarkable. Lungs are expanded and clear airspace disease. Negative for pneumothorax, pleural effusion, or pneumoperitoneum. Limited bone evaluation reveals no acute abnormality.",
+    "referenceFindings": {
+      "findings": [
+        {
+          "key": "heart",
+          "text": "Yurak-mediastinal soya o'lchami va shakli me'yorida",
+          "importance": "major",
+          "category": "normal_structure"
+        },
+        {
+          "key": "vessels",
+          "text": "O'pka qon tomir rasmi o'zgarishsiz",
+          "importance": "minor",
+          "category": "normal_structure"
+        },
+        {
+          "key": "lungs",
+          "text": "O'pkalar yoyilgan, infiltratsiya yo'q",
+          "importance": "major",
+          "category": "normal_structure"
+        },
+        {
+          "key": "no-ptx-eff",
+          "text": "Pnevmotoraks, plevral suyuqlik va pnevmoperitoneum yo'q",
+          "importance": "major",
+          "category": "normal_structure"
+        },
+        {
+          "key": "bones",
+          "text": "Suyaklarda o'tkir o'zgarish yo'q",
+          "importance": "minor",
+          "category": "normal_structure"
+        }
+      ],
+      "impression": "Ko'krak qafasi organlarida o'tkir patologik o'zgarishlar aniqlanmadi.",
+      "recommendations": "Qo'shimcha tekshiruv talab etilmaydi."
+    },
+    "images": [
+      {
+        "url": "/cases/xray/CXR2401_IM-0950/0.jpg",
+        "pixelSpacing": null,
+        "label": "To'g'ri proyeksiya"
+      },
+      {
+        "url": "/cases/xray/CXR2401_IM-0950/1.jpg",
+        "pixelSpacing": null,
+        "label": "Yon proyeksiya"
+      }
+    ],
+    "regions": [],
+    "originalReport": "Cardiomediastinal silhouette is within normal limits of size and appearance. The pulmonary vascularity is unremarkable. Lungs are expanded and clear airspace disease. Negative for pneumothorax, pleural effusion, or pneumoperitoneum. Limited bone evaluation reveals no acute abnormality."
+  },
+  {
+    "source": "IU-Xray",
+    "sourceId": "CXR2919_IM-1321",
+    "title": "Yaqqol kardiomegaliya va venoz dimlanish (IU)",
+    "modality": "XRAY",
+    "bodyRegion": "Ko'krak qafasi",
+    "difficulty": "EASY",
+    "clinicalInfo": "Ko'krak qafasi rentgenogrammasi (to'g'ri va yon proyeksiya). Klinik anamnez ma'lumotlar to'plamida berilmagan.\nManba: Indiana University Chest X-ray Collection (NLM Open-i), CXR2919_IM-1321. Tavsif radiologning asl inglizcha xulosasidan tarjima qilingan; xulosa va tavsiya shu tavsif asosida tuzilgan.",
+    "tags": [
+      "kardiomegaliya",
+      "yurak",
+      "haqiqiy rentgen"
+    ],
+    "referenceReport": "Texnika: Ko'krak qafasi organlari rentgenogrammasi, to'g'ri va yon proyeksiyalar.\nTavsif: Yurak soyasi sezilarli darajada kattalashgan. O'pka qon tomir rasmi kuchaygan. O'choqli konsolidatsiya, shubhali soya yoki aniq plevral suyuqlik yo'q. Pnevmotoraks yo'q. Ko'rinadigan suyak tuzilmalari butun.\nXulosa: Yaqqol kardiomegaliya, o'pkada venoz dimlanish belgilari.\nTavsiya: Exokardiografiya, kardiolog konsultatsiyasi.\n\nRadiologning asl matni (ingliz tilida): The heart is significantly enlarged. Prominent pulmonary vascularity. No focal airspace consolidation, suspicious pulmonary opacity, or definite pleural effusion. No pneumothorax. Visualized osseous structures appear intact.",
+    "referenceFindings": {
+      "findings": [
+        {
+          "key": "cardiomegaly",
+          "text": "Yurak soyasi sezilarli kattalashgan (kardiomegaliya)",
+          "importance": "critical",
+          "category": "finding"
+        },
+        {
+          "key": "congestion",
+          "text": "O'pka qon tomir rasmi kuchaygan (venoz dimlanish)",
+          "importance": "major",
+          "category": "finding"
+        },
+        {
+          "key": "no-consolidation",
+          "text": "O'choqli konsolidatsiya va shubhali soya yo'q",
+          "importance": "minor",
+          "category": "normal_structure"
+        },
+        {
+          "key": "no-effusion",
+          "text": "Aniq plevral suyuqlik va pnevmotoraks yo'q",
+          "importance": "minor",
+          "category": "normal_structure"
+        }
+      ],
+      "impression": "Yaqqol kardiomegaliya, o'pkada venoz dimlanish belgilari.",
+      "recommendations": "Exokardiografiya, kardiolog konsultatsiyasi."
+    },
+    "images": [
+      {
+        "url": "/cases/xray/CXR2919_IM-1321/0.jpg",
+        "pixelSpacing": null,
+        "label": "To'g'ri proyeksiya"
+      },
+      {
+        "url": "/cases/xray/CXR2919_IM-1321/1.jpg",
+        "pixelSpacing": null,
+        "label": "Yon proyeksiya"
+      }
+    ],
+    "regions": [],
+    "originalReport": "The heart is significantly enlarged. Prominent pulmonary vascularity. No focal airspace consolidation, suspicious pulmonary opacity, or definite pleural effusion. No pneumothorax. Visualized osseous structures appear intact."
+  },
+  {
+    "source": "IU-Xray",
+    "sourceId": "CXR3378_IM-1627",
+    "title": "O'ng tomonlama pnevmotoraks va qovurg'a sinishi (IU)",
+    "modality": "XRAY",
+    "bodyRegion": "Ko'krak qafasi",
+    "difficulty": "HARD",
+    "clinicalInfo": "Ko'krak qafasi rentgenogrammasi (to'g'ri va yon proyeksiya). Klinik anamnez ma'lumotlar to'plamida berilmagan.\nManba: Indiana University Chest X-ray Collection (NLM Open-i), CXR3378_IM-1627. Tavsif radiologning asl inglizcha xulosasidan tarjima qilingan; xulosa va tavsiya shu tavsif asosida tuzilgan.",
+    "tags": [
+      "pnevmotoraks",
+      "travma",
+      "shoshilinch",
+      "haqiqiy rentgen"
+    ],
+    "referenceReport": "Texnika: Ko'krak qafasi organlari rentgenogrammasi, to'g'ri va yon proyeksiyalar.\nTavsif: O'ng tomonda o'rtacha hajmli pnevmotoraks, o'ng o'pka cho'qqisida taxminan 3,3 sm. O'ng 8-qovurg'aning lateral qismida biroz siljigan sinish va o'ng 7-qovurg'aning lateral qismida ehtimoliy siljimagan sinish. Yurak-mediastinal soya me'yorida. Chap o'pka toza.\nXulosa: O'ng tomonlama o'rtacha pnevmotoraks (cho'qqida ~3,3 sm), o'ng 8- va ehtimol 7-qovurg'alar sinishi.\nTavsiya: Shoshilinch torakal jarroh konsultatsiyasi, plevra bo'shlig'ini drenajlash masalasini hal qilish, rentgen nazorati.\n\nRadiologning asl matni (ingliz tilida): There is a moderate right-sided pneumothorax measuring approximately 3.3 cm in the right apex. There is a minimally displaced right lateral 8th rib fracture and probable nondisplaced right lateral 7th rib fracture. Cardiomediastinal silhouette is within normal limits. Left lung is clear.",
+    "referenceFindings": {
+      "findings": [
+        {
+          "key": "ptx",
+          "text": "O'ng tomonda o'rtacha pnevmotoraks, cho'qqida taxminan 3,3 sm",
+          "importance": "critical",
+          "category": "finding"
+        },
+        {
+          "key": "rib8",
+          "text": "O'ng 8-qovurg'a lateral qismida biroz siljigan sinish",
+          "importance": "major",
+          "category": "finding"
+        },
+        {
+          "key": "rib7",
+          "text": "O'ng 7-qovurg'a lateral qismida ehtimoliy siljimagan sinish",
+          "importance": "minor",
+          "category": "finding"
+        },
+        {
+          "key": "mediastinum",
+          "text": "Yurak-mediastinal soya me'yorida",
+          "importance": "minor",
+          "category": "normal_structure"
+        },
+        {
+          "key": "left-lung",
+          "text": "Chap o'pka toza",
+          "importance": "minor",
+          "category": "normal_structure"
+        }
+      ],
+      "impression": "O'ng tomonlama o'rtacha pnevmotoraks (cho'qqida ~3,3 sm), o'ng 8- va ehtimol 7-qovurg'alar sinishi.",
+      "recommendations": "Shoshilinch torakal jarroh konsultatsiyasi, plevra bo'shlig'ini drenajlash masalasini hal qilish, rentgen nazorati."
+    },
+    "images": [
+      {
+        "url": "/cases/xray/CXR3378_IM-1627/0.jpg",
+        "pixelSpacing": null,
+        "label": "To'g'ri proyeksiya"
+      },
+      {
+        "url": "/cases/xray/CXR3378_IM-1627/1.jpg",
+        "pixelSpacing": null,
+        "label": "Yon proyeksiya"
+      }
+    ],
+    "regions": [],
+    "originalReport": "There is a moderate right-sided pneumothorax measuring approximately 3.3 cm in the right apex. There is a minimally displaced right lateral 8th rib fracture and probable nondisplaced right lateral 7th rib fracture. Cardiomediastinal silhouette is within normal limits. Left lung is clear."
+  },
+  {
+    "source": "IU-Xray",
+    "sourceId": "CXR3078_IM-1438",
+    "title": "O'ng pastki bo'lak pnevmoniyasi (IU)",
+    "modality": "XRAY",
+    "bodyRegion": "Ko'krak qafasi",
+    "difficulty": "MEDIUM",
+    "clinicalInfo": "Ko'krak qafasi rentgenogrammasi (to'g'ri va yon proyeksiya). Klinik anamnez ma'lumotlar to'plamida berilmagan.\nManba: Indiana University Chest X-ray Collection (NLM Open-i), CXR3078_IM-1438. Tavsif radiologning asl inglizcha xulosasidan tarjima qilingan; xulosa va tavsiya shu tavsif asosida tuzilgan.",
+    "tags": [
+      "pnevmoniya",
+      "infeksiya",
+      "haqiqiy rentgen"
+    ],
+    "referenceReport": "Texnika: Ko'krak qafasi organlari rentgenogrammasi, to'g'ri va yon proyeksiyalar.\nTavsif: Yurak-mediastinal soya o'lchami va shakli me'yorida. O'pka qon tomirlari me'yorida. O'ng o'pka pastki bo'lagida pnevmoniya. Plevral suyuqlik yo'q. Pnevmotoraks yo'q.\nXulosa: O'ng o'pka pastki bo'lagi pnevmoniyasi.\nTavsiya: Klinik-laborator tasdiq, antibakterial davo; 6–8 haftadan keyin rentgen nazorati.\n\nRadiologning asl matni (ingliz tilida): The cardiomediastinal silhouette is normal size and configuration. Pulmonary vasculature within normal limits. There is a right lower lobe pneumonia. No pleural effusion. No pneumothorax.",
+    "referenceFindings": {
+      "findings": [
+        {
+          "key": "rll-pneumonia",
+          "text": "O'ng o'pka pastki bo'lagida pnevmoniya (infiltrativ soya)",
+          "importance": "critical",
+          "category": "finding"
+        },
+        {
+          "key": "heart",
+          "text": "Yurak-mediastinal soya me'yorida",
+          "importance": "minor",
+          "category": "normal_structure"
+        },
+        {
+          "key": "vessels",
+          "text": "O'pka qon tomirlari me'yorida",
+          "importance": "minor",
+          "category": "normal_structure"
+        },
+        {
+          "key": "no-effusion",
+          "text": "Plevral suyuqlik va pnevmotoraks yo'q",
+          "importance": "major",
+          "category": "normal_structure"
+        }
+      ],
+      "impression": "O'ng o'pka pastki bo'lagi pnevmoniyasi.",
+      "recommendations": "Klinik-laborator tasdiq, antibakterial davo; 6–8 haftadan keyin rentgen nazorati."
+    },
+    "images": [
+      {
+        "url": "/cases/xray/CXR3078_IM-1438/0.jpg",
+        "pixelSpacing": null,
+        "label": "To'g'ri proyeksiya"
+      },
+      {
+        "url": "/cases/xray/CXR3078_IM-1438/1.jpg",
+        "pixelSpacing": null,
+        "label": "Yon proyeksiya"
+      }
+    ],
+    "regions": [],
+    "originalReport": "The cardiomediastinal silhouette is normal size and configuration. Pulmonary vasculature within normal limits. There is a right lower lobe pneumonia. No pleural effusion. No pneumothorax."
+  },
+  {
+    "source": "IU-Xray",
+    "sourceId": "CXR249_IM-1016",
+    "title": "O'ng o'pka o'rta bo'lagida o'sma (IU)",
+    "modality": "XRAY",
+    "bodyRegion": "Ko'krak qafasi",
+    "difficulty": "MEDIUM",
+    "clinicalInfo": "Ko'krak qafasi rentgenogrammasi (to'g'ri va yon proyeksiya). Avvalgi rentgenogramma bilan solishtirilgan (dinamik kuzatuv). Klinik anamnez ma'lumotlar to'plamida berilmagan.\nManba: Indiana University Chest X-ray Collection (NLM Open-i), CXR249_IM-1016. Tavsif radiologning asl inglizcha xulosasidan tarjima qilingan; xulosa va tavsiya shu tavsif asosida tuzilgan.",
+    "tags": [
+      "o'sma",
+      "o'pka hosilasi",
+      "haqiqiy rentgen"
+    ],
+    "referenceReport": "Texnika: Ko'krak qafasi organlari rentgenogrammasi, to'g'ri va yon proyeksiyalar.\nTavsif: O'ng o'pka o'rta bo'lagida 4,5 x 6,8 sm o'lchamli bo'lakli konturli hosila, oldingi tekshiruvga nisbatan kattalashgan, ko'proq o'smaga (neoplazma) mos. Qolgan o'pka to'qimasi toza, o'choqli konsolidatsiya yo'q. Pnevmotoraks va plevral suyuqlik yo'q. Yurak-mediastinal soya me'yorida.\nXulosa: O'ng o'pka o'rta bo'lagida o'sib borayotgan bo'lakli hosila — o'pka o'smasiga shubha.\nTavsiya: Kontrastli KT, pulmonolog / onkolog konsultatsiyasi, to'qima tekshiruvi (biopsiya).\n\nRadiologning asl matni (ingliz tilida): Lobulated right middle lobe mass measuring 4.5 x 6.8 cm, increased in size compared to prior study, most compatible with neoplasm. Otherwise, the lungs are clear without focal consolidation. No pneumothorax or pleural effusion. Cardiomediastinal silhouette within normal limits.",
+    "referenceFindings": {
+      "findings": [
+        {
+          "key": "rml-mass",
+          "text": "O'ng o'pka o'rta bo'lagida 4,5 x 6,8 sm bo'lakli konturli hosila",
+          "importance": "critical",
+          "category": "finding"
+        },
+        {
+          "key": "growth",
+          "text": "Hosila oldingi tekshiruvga nisbatan kattalashgan — o'smaga mos",
+          "importance": "major",
+          "category": "finding"
+        },
+        {
+          "key": "lungs",
+          "text": "Qolgan o'pka toza, konsolidatsiya yo'q",
+          "importance": "minor",
+          "category": "normal_structure"
+        },
+        {
+          "key": "no-ptx-eff",
+          "text": "Pnevmotoraks va plevral suyuqlik yo'q",
+          "importance": "minor",
+          "category": "normal_structure"
+        }
+      ],
+      "impression": "O'ng o'pka o'rta bo'lagida o'sib borayotgan bo'lakli hosila — o'pka o'smasiga shubha.",
+      "recommendations": "Kontrastli KT, pulmonolog / onkolog konsultatsiyasi, to'qima tekshiruvi (biopsiya)."
+    },
+    "images": [
+      {
+        "url": "/cases/xray/CXR249_IM-1016/0.jpg",
+        "pixelSpacing": null,
+        "label": "To'g'ri proyeksiya"
+      },
+      {
+        "url": "/cases/xray/CXR249_IM-1016/1.jpg",
+        "pixelSpacing": null,
+        "label": "Yon proyeksiya"
+      }
+    ],
+    "regions": [],
+    "originalReport": "Lobulated right middle lobe mass measuring 4.5 x 6.8 cm, increased in size compared to prior study, most compatible with neoplasm. Otherwise, the lungs are clear without focal consolidation. No pneumothorax or pleural effusion. Cardiomediastinal silhouette within normal limits."
+  },
+  {
+    "source": "IU-Xray",
+    "sourceId": "CXR1626_IM-0407",
+    "title": "Ikki tomonlama ko'plab o'pka tugunlari (IU)",
+    "modality": "XRAY",
+    "bodyRegion": "Ko'krak qafasi",
+    "difficulty": "HARD",
+    "clinicalInfo": "Ko'krak qafasi rentgenogrammasi (to'g'ri va yon proyeksiya). Klinik anamnez ma'lumotlar to'plamida berilmagan.\nManba: Indiana University Chest X-ray Collection (NLM Open-i), CXR1626_IM-0407. Tavsif radiologning asl inglizcha xulosasidan tarjima qilingan; xulosa va tavsiya shu tavsif asosida tuzilgan.",
+    "tags": [
+      "o'pka tuguni",
+      "o'sma",
+      "metastaz",
+      "haqiqiy rentgen"
+    ],
+    "referenceReport": "Texnika: Ko'krak qafasi organlari rentgenogrammasi, to'g'ri va yon proyeksiyalar.\nTavsif: Yurak o'lchami me'yorida. Mediastinal konturlar me'yorida. Ikkala o'pkada turli o'lchamdagi ko'plab tugunlar; eng kattasi chap o'pka pastki bo'lagining orqa qismida, taxminan 7,0 sm. O'tkir infiltratsiya va plevral suyuqlik aniqlanmaydi.\nXulosa: Ikki tomonlama ko'plab o'pka tugunlari (eng kattasi chap pastki bo'lakda ~7 sm) — birinchi navbatda metastatik zararlanishni istisno qilish kerak.\nTavsiya: Ko'krak va qorin bo'shlig'i KT, birlamchi o'smani izlash, onkolog konsultatsiyasi.\n\nRadiologning asl matni (ingliz tilida): The heart is normal in size. The mediastinal contours are within normal limits. There are numerous bilateral pulmonary nodules of varying sizes. The largest is noted in the left lower lobe, posteriorly measuring approximately 7.0 cm. No acute infiltrate or pleural effusion are appreciated.",
+    "referenceFindings": {
+      "findings": [
+        {
+          "key": "multiple-nodules",
+          "text": "Ikkala o'pkada turli o'lchamdagi ko'plab tugunlar",
+          "importance": "critical",
+          "category": "finding"
+        },
+        {
+          "key": "largest",
+          "text": "Eng katta tugun chap pastki bo'lakning orqa qismida, taxminan 7,0 sm",
+          "importance": "major",
+          "category": "finding"
+        },
+        {
+          "key": "heart",
+          "text": "Yurak o'lchami va mediastinal konturlar me'yorida",
+          "importance": "minor",
+          "category": "normal_structure"
+        },
+        {
+          "key": "no-effusion",
+          "text": "O'tkir infiltratsiya va plevral suyuqlik yo'q",
+          "importance": "minor",
+          "category": "normal_structure"
+        }
+      ],
+      "impression": "Ikki tomonlama ko'plab o'pka tugunlari (eng kattasi chap pastki bo'lakda ~7 sm) — birinchi navbatda metastatik zararlanishni istisno qilish kerak.",
+      "recommendations": "Ko'krak va qorin bo'shlig'i KT, birlamchi o'smani izlash, onkolog konsultatsiyasi."
+    },
+    "images": [
+      {
+        "url": "/cases/xray/CXR1626_IM-0407/0.jpg",
+        "pixelSpacing": null,
+        "label": "To'g'ri proyeksiya"
+      },
+      {
+        "url": "/cases/xray/CXR1626_IM-0407/1.jpg",
+        "pixelSpacing": null,
+        "label": "Yon proyeksiya"
+      }
+    ],
+    "regions": [],
+    "originalReport": "The heart is normal in size. The mediastinal contours are within normal limits. There are numerous bilateral pulmonary nodules of varying sizes. The largest is noted in the left lower lobe, posteriorly measuring approximately 7.0 cm. No acute infiltrate or pleural effusion are appreciated."
+  },
+  {
+    "source": "IU-Xray",
+    "sourceId": "CXR408_IM-2054",
+    "title": "Ikki tomonlama plevral suyuqlik (IU)",
+    "modality": "XRAY",
+    "bodyRegion": "Ko'krak qafasi",
+    "difficulty": "MEDIUM",
+    "clinicalInfo": "Ko'krak qafasi rentgenogrammasi (to'g'ri va yon proyeksiya). Klinik anamnez ma'lumotlar to'plamida berilmagan.\nManba: Indiana University Chest X-ray Collection (NLM Open-i), CXR408_IM-2054. Tavsif radiologning asl inglizcha xulosasidan tarjima qilingan; xulosa va tavsiya shu tavsif asosida tuzilgan.",
+    "tags": [
+      "plevral suyuqlik",
+      "haqiqiy rentgen"
+    ],
+    "referenceReport": "Texnika: Ko'krak qafasi organlari rentgenogrammasi, to'g'ri va yon proyeksiyalar.\nTavsif: Yurak o'lchami me'yorida. Mediastinum o'zgarishsiz. O'pkalar yetarlicha havolanmagan (gipoinflyatsiya). Ikki tomonlama kichik hajmli plevral suyuqlik.\nXulosa: Ikki tomonlama kichik hajmli plevral suyuqlik, o'pkalar gipoinflyatsiyasi.\nTavsiya: Suyuqlik sababini aniqlash (yurak, buyrak, yallig'lanish); kerak bo'lsa plevra UZI.\n\nRadiologning asl matni (ingliz tilida): The heart is normal in size. The mediastinum is unremarkable. The lungs are hypoinflated. Small bilateral pleural effusions are seen.",
+    "referenceFindings": {
+      "findings": [
+        {
+          "key": "bilateral-effusion",
+          "text": "Ikki tomonlama kichik hajmli plevral suyuqlik",
+          "importance": "critical",
+          "category": "finding"
+        },
+        {
+          "key": "hypoinflation",
+          "text": "O'pkalar gipoinflyatsiyasi (yetarli havolanmagan)",
+          "importance": "major",
+          "category": "finding"
+        },
+        {
+          "key": "heart",
+          "text": "Yurak o'lchami va mediastinum me'yorida",
+          "importance": "minor",
+          "category": "normal_structure"
+        }
+      ],
+      "impression": "Ikki tomonlama kichik hajmli plevral suyuqlik, o'pkalar gipoinflyatsiyasi.",
+      "recommendations": "Suyuqlik sababini aniqlash (yurak, buyrak, yallig'lanish); kerak bo'lsa plevra UZI."
+    },
+    "images": [
+      {
+        "url": "/cases/xray/CXR408_IM-2054/0.jpg",
+        "pixelSpacing": null,
+        "label": "To'g'ri proyeksiya"
+      },
+      {
+        "url": "/cases/xray/CXR408_IM-2054/1.jpg",
+        "pixelSpacing": null,
+        "label": "Yon proyeksiya"
+      }
+    ],
+    "regions": [],
+    "originalReport": "The heart is normal in size. The mediastinum is unremarkable. The lungs are hypoinflated. Small bilateral pleural effusions are seen."
+  },
+  {
+    "source": "IU-Xray",
+    "sourceId": "CXR1145_IM-0097",
+    "title": "O'pkalar giperinflyatsiyasi (IU)",
+    "modality": "XRAY",
+    "bodyRegion": "Ko'krak qafasi",
+    "difficulty": "EASY",
+    "clinicalInfo": "Ko'krak qafasi rentgenogrammasi (to'g'ri va yon proyeksiya). Klinik anamnez ma'lumotlar to'plamida berilmagan.\nManba: Indiana University Chest X-ray Collection (NLM Open-i), CXR1145_IM-0097. Tavsif radiologning asl inglizcha xulosasidan tarjima qilingan; xulosa va tavsiya shu tavsif asosida tuzilgan.",
+    "tags": [
+      "koab",
+      "emfizema",
+      "haqiqiy rentgen"
+    ],
+    "referenceReport": "Texnika: Ko'krak qafasi organlari rentgenogrammasi, to'g'ri va yon proyeksiyalar.\nTavsif: O'pkalar haddan tashqari havolangan (giperekspansiya). O'choqli konsolidatsiya yo'q. Shubhali o'sma yoki tugun ko'rinmaydi. Plevral suyuqlik va pnevmotoraks yo'q. Yurak o'lchami va mediastinal kontur me'yorida.\nXulosa: O'pkalar giperinflyatsiyasi — surunkali obstruktiv o'pka kasalligi (KOAB) / emfizemaga mos; o'tkir o'zgarish yo'q.\nTavsiya: Spirometriya, pulmonolog konsultatsiyasi.\n\nRadiologning asl matni (ingliz tilida): Lungs are hyperexpanded. There is no focal airspace consolidation. No suspicious pulmonary mass or nodule is seen. No pleural effusion or pneumothorax. Normal heart size and mediastinal contour.",
+    "referenceFindings": {
+      "findings": [
+        {
+          "key": "hyperinflation",
+          "text": "O'pkalar haddan tashqari havolangan (giperinflyatsiya)",
+          "importance": "critical",
+          "category": "finding"
+        },
+        {
+          "key": "no-consolidation",
+          "text": "O'choqli konsolidatsiya, shubhali o'sma yoki tugun yo'q",
+          "importance": "major",
+          "category": "normal_structure"
+        },
+        {
+          "key": "no-ptx-eff",
+          "text": "Plevral suyuqlik va pnevmotoraks yo'q",
+          "importance": "minor",
+          "category": "normal_structure"
+        },
+        {
+          "key": "heart",
+          "text": "Yurak o'lchami va mediastinal kontur me'yorida",
+          "importance": "minor",
+          "category": "normal_structure"
+        }
+      ],
+      "impression": "O'pkalar giperinflyatsiyasi — surunkali obstruktiv o'pka kasalligi (KOAB) / emfizemaga mos; o'tkir o'zgarish yo'q.",
+      "recommendations": "Spirometriya, pulmonolog konsultatsiyasi."
+    },
+    "images": [
+      {
+        "url": "/cases/xray/CXR1145_IM-0097/0.jpg",
+        "pixelSpacing": null,
+        "label": "To'g'ri proyeksiya"
+      },
+      {
+        "url": "/cases/xray/CXR1145_IM-0097/1.jpg",
+        "pixelSpacing": null,
+        "label": "Yon proyeksiya"
+      }
+    ],
+    "regions": [],
+    "originalReport": "Lungs are hyperexpanded. There is no focal airspace consolidation. No suspicious pulmonary mass or nodule is seen. No pleural effusion or pneumothorax. Normal heart size and mediastinal contour."
+  },
+  {
+    "source": "IU-Xray",
+    "sourceId": "CXR1543_IM-0353",
+    "title": "Katta hiatal churra (IU)",
+    "modality": "XRAY",
+    "bodyRegion": "Ko'krak qafasi",
+    "difficulty": "MEDIUM",
+    "clinicalInfo": "Ko'krak qafasi rentgenogrammasi (to'g'ri va yon proyeksiya). Klinik anamnez ma'lumotlar to'plamida berilmagan.\nManba: Indiana University Chest X-ray Collection (NLM Open-i), CXR1543_IM-0353. Tavsif radiologning asl inglizcha xulosasidan tarjima qilingan; xulosa va tavsiya shu tavsif asosida tuzilgan.",
+    "tags": [
+      "churra",
+      "qizilo'ngach",
+      "haqiqiy rentgen"
+    ],
+    "referenceReport": "Texnika: Ko'krak qafasi organlari rentgenogrammasi, to'g'ri va yon proyeksiyalar.\nTavsif: Yurak-mediastinal soya me'yorida. O'pkalar normal havolangan, o'choqli infiltratsiya, plevral suyuqlik va pnevmotoraks belgilari yo'q. Suyaklarda o'tkir o'zgarish yo'q. Katta diafragma qizilo'ngach teshigi churrasi (hiatal churra).\nXulosa: Katta hiatal churra; o'pkalarda o'tkir o'zgarish yo'q.\nTavsiya: Gastroenterolog konsultatsiyasi; kerak bo'lsa EGDS yoki bariy bilan rentgenoskopiya.\n\nRadiologning asl matni (ingliz tilida): The cardiomediastinal silhouette is within normal limits. The lungs are normally inflated without evidence of focal airspace disease, pleural effusion, or pneumothorax. No acute osseus abnormality. Large hiatal hernia.",
+    "referenceFindings": {
+      "findings": [
+        {
+          "key": "hiatal-hernia",
+          "text": "Katta diafragma qizilo'ngach teshigi (hiatal) churrasi",
+          "importance": "critical",
+          "category": "finding"
+        },
+        {
+          "key": "lungs",
+          "text": "O'pkalar normal havolangan, infiltratsiya yo'q",
+          "importance": "major",
+          "category": "normal_structure"
+        },
+        {
+          "key": "no-ptx-eff",
+          "text": "Plevral suyuqlik va pnevmotoraks yo'q",
+          "importance": "minor",
+          "category": "normal_structure"
+        },
+        {
+          "key": "heart",
+          "text": "Yurak-mediastinal soya me'yorida",
+          "importance": "minor",
+          "category": "normal_structure"
+        }
+      ],
+      "impression": "Katta hiatal churra; o'pkalarda o'tkir o'zgarish yo'q.",
+      "recommendations": "Gastroenterolog konsultatsiyasi; kerak bo'lsa EGDS yoki bariy bilan rentgenoskopiya."
+    },
+    "images": [
+      {
+        "url": "/cases/xray/CXR1543_IM-0353/0.jpg",
+        "pixelSpacing": null,
+        "label": "To'g'ri proyeksiya"
+      },
+      {
+        "url": "/cases/xray/CXR1543_IM-0353/1.jpg",
+        "pixelSpacing": null,
+        "label": "Yon proyeksiya"
+      }
+    ],
+    "regions": [],
+    "originalReport": "The cardiomediastinal silhouette is within normal limits. The lungs are normally inflated without evidence of focal airspace disease, pleural effusion, or pneumothorax. No acute osseus abnormality. Large hiatal hernia."
+  },
+  {
+    "source": "IU-Xray",
+    "sourceId": "CXR1847_IM-0550",
+    "title": "Mediastinal va ildiz kalsinatlangan granulyomalari (IU)",
+    "modality": "XRAY",
+    "bodyRegion": "Ko'krak qafasi",
+    "difficulty": "MEDIUM",
+    "clinicalInfo": "Ko'krak qafasi rentgenogrammasi (to'g'ri va yon proyeksiya). Klinik anamnez ma'lumotlar to'plamida berilmagan.\nManba: Indiana University Chest X-ray Collection (NLM Open-i), CXR1847_IM-0550. Tavsif radiologning asl inglizcha xulosasidan tarjima qilingan; xulosa va tavsiya shu tavsif asosida tuzilgan.",
+    "tags": [
+      "granulyoma",
+      "kalsinat",
+      "haqiqiy rentgen"
+    ],
+    "referenceReport": "Texnika: Ko'krak qafasi organlari rentgenogrammasi, to'g'ri va yon proyeksiyalar.\nTavsif: Yurak va mediastinal soyalar o'zgarishsiz. O'pkalar yaxshi yoyilgan va toza. O'choqli soya, pnevmotoraks va suyuqlik yo'q. Mediastinumda va o'ng o'pka ildizida yirik kalsinatlangan granulyomalar. Ko'krak qafasi suyaklari butun, o'tkir o'zgarish yo'q.\nXulosa: Mediastinal va o'ng ildiz kalsinatlangan granulyomalari — o'tkazilgan granulyomatoz infeksiya asorati; faol jarayon belgisi yo'q.\nTavsiya: Qo'shimcha tekshiruv talab etilmaydi; klinik ko'rsatma bo'lsa ftiziatr konsultatsiyasi.\n\nRadiologning asl matni (ingliz tilida): The cardiac and mediastinal silhouettes are unremarkable. The lungs are well expanded and clear. There is no focal air space opacity, pneumothorax, or effusion. There are large calcified mediastinal and right hilar granulomas. The bony structures of the thorax are intact with no evidence of acute abnormality.",
+    "referenceFindings": {
+      "findings": [
+        {
+          "key": "granulomas",
+          "text": "Mediastinumda va o'ng o'pka ildizida yirik kalsinatlangan granulyomalar",
+          "importance": "critical",
+          "category": "finding"
+        },
+        {
+          "key": "lungs",
+          "text": "O'pkalar yoyilgan va toza, o'choqli soya yo'q",
+          "importance": "major",
+          "category": "normal_structure"
+        },
+        {
+          "key": "no-ptx-eff",
+          "text": "Pnevmotoraks va plevral suyuqlik yo'q",
+          "importance": "minor",
+          "category": "normal_structure"
+        },
+        {
+          "key": "bones",
+          "text": "Suyaklar butun",
+          "importance": "minor",
+          "category": "normal_structure"
+        }
+      ],
+      "impression": "Mediastinal va o'ng ildiz kalsinatlangan granulyomalari — o'tkazilgan granulyomatoz infeksiya asorati; faol jarayon belgisi yo'q.",
+      "recommendations": "Qo'shimcha tekshiruv talab etilmaydi; klinik ko'rsatma bo'lsa ftiziatr konsultatsiyasi."
+    },
+    "images": [
+      {
+        "url": "/cases/xray/CXR1847_IM-0550/0.jpg",
+        "pixelSpacing": null,
+        "label": "To'g'ri proyeksiya"
+      },
+      {
+        "url": "/cases/xray/CXR1847_IM-0550/1.jpg",
+        "pixelSpacing": null,
+        "label": "Yon proyeksiya"
+      }
+    ],
+    "regions": [],
+    "originalReport": "The cardiac and mediastinal silhouettes are unremarkable. The lungs are well expanded and clear. There is no focal air space opacity, pneumothorax, or effusion. There are large calcified mediastinal and right hilar granulomas. The bony structures of the thorax are intact with no evidence of acute abnormality."
+  }
+]

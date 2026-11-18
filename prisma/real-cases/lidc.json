@@ -1,0 +1,5360 @@
+[
+  {
+    "source": "LIDC-IDRI",
+    "sourceId": "LIDC-IDRI-0087",
+    "seriesInstanceUID": "1.3.6.1.4.1.14519.5.2.1.6279.6001.194632613233275988184244485809",
+    "title": "O'ng o'pkada 31 mm tikanli o'sma (LIDC)",
+    "modality": "CT",
+    "bodyRegion": "Ko'krak qafasi",
+    "difficulty": "EASY",
+    "clinicalInfo": "Ko'krak qafasi KT (o'pka tugunlarini aniqlash). Klinik anamnez ma'lumotlar to'plamida berilmagan. Vazifa: o'pkalardagi o'choqli tugunlarni toping, joyi, o'lchami va xususiyatlarini tavsiflang.\nManba: LIDC-IDRI (LIDC-IDRI-0087), NCI Imaging Data Commons, CC BY 3.0. Etalon xulosa 4 ta radiologning mustaqil tugun belgilashlari asosida tuzilgan; tugundan boshqa patologiyalar baholanmagan.",
+    "tags": [
+      "o'pka tuguni",
+      "haqiqiy KT",
+      "LIDC-IDRI",
+      "o'sma"
+    ],
+    "referenceReport": "Texnika: Ko'krak qafasi KT, aksial kesimlar 2.5 mm (130 ta kesim), kontrastli.\nTavsif: O'ng o'pkaning yuqori zonasida 34x29 mm (maksimal diametri 30.8 mm) solid tugun, chegarasi aniq, aniq spikulali (tikanli) konturli (kesimlar 19–27).\nXulosa: O'ng o'pka yuqori zonasidagi 31 mm solid tugun — xavfli o'smaga yuqori shubha (radiologlar bahosi 5/5).\nTavsiya: Onkolog / pulmonolog konsultatsiyasi, PET-KT va to'qima tekshiruvi (biopsiya) masalasini hal qilish.",
+    "referenceFindings": {
+      "findings": [
+        {
+          "key": "nodule-1",
+          "text": "O'ng o'pkaning yuqori zonasida 34x29 mm (maksimal diametri 30.8 mm) solid tugun, chegarasi aniq, aniq spikulali (tikanli) konturli",
+          "importance": "critical",
+          "category": "finding"
+        }
+      ],
+      "impression": "O'ng o'pka yuqori zonasidagi 31 mm solid tugun — xavfli o'smaga yuqori shubha (radiologlar bahosi 5/5).",
+      "recommendations": "Onkolog / pulmonolog konsultatsiyasi, PET-KT va to'qima tekshiruvi (biopsiya) masalasini hal qilish."
+    },
+    "images": [
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/000.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 1/130 · z -40.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/001.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 2/130 · z -43.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/002.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 3/130 · z -45.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/003.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 4/130 · z -48.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/004.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 5/130 · z -50.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/005.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 6/130 · z -53.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/006.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 7/130 · z -55.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/007.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 8/130 · z -58.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/008.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 9/130 · z -60.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/009.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 10/130 · z -63.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/010.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 11/130 · z -65.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/011.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 12/130 · z -68.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/012.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 13/130 · z -70.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/013.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 14/130 · z -73.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/014.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 15/130 · z -75.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/015.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 16/130 · z -78.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/016.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 17/130 · z -80.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/017.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 18/130 · z -83.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/018.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 19/130 · z -85.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/019.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 20/130 · z -88.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/020.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 21/130 · z -90.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/021.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 22/130 · z -93.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/022.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 23/130 · z -95.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/023.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 24/130 · z -98.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/024.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 25/130 · z -100.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/025.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 26/130 · z -103.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/026.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 27/130 · z -105.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/027.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 28/130 · z -108.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/028.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 29/130 · z -110.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/029.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 30/130 · z -113.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/030.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 31/130 · z -115.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/031.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 32/130 · z -118.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/032.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 33/130 · z -120.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/033.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 34/130 · z -123.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/034.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 35/130 · z -125.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/035.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 36/130 · z -128.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/036.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 37/130 · z -130.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/037.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 38/130 · z -133.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/038.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 39/130 · z -135.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/039.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 40/130 · z -138.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/040.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 41/130 · z -140.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/041.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 42/130 · z -143.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/042.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 43/130 · z -145.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/043.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 44/130 · z -148.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/044.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 45/130 · z -150.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/045.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 46/130 · z -153.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/046.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 47/130 · z -155.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/047.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 48/130 · z -158.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/048.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 49/130 · z -160.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/049.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 50/130 · z -163.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/050.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 51/130 · z -165.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/051.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 52/130 · z -168.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/052.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 53/130 · z -170.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/053.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 54/130 · z -173.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/054.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 55/130 · z -175.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/055.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 56/130 · z -178.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/056.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 57/130 · z -180.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/057.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 58/130 · z -183.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/058.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 59/130 · z -185.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/059.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 60/130 · z -188.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/060.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 61/130 · z -190.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/061.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 62/130 · z -193.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/062.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 63/130 · z -195.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/063.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 64/130 · z -198.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/064.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 65/130 · z -200.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/065.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 66/130 · z -203.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/066.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 67/130 · z -205.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/067.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 68/130 · z -208.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/068.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 69/130 · z -210.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/069.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 70/130 · z -213.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/070.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 71/130 · z -215.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/071.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 72/130 · z -218.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/072.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 73/130 · z -220.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/073.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 74/130 · z -223.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/074.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 75/130 · z -225.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/075.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 76/130 · z -228.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/076.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 77/130 · z -230.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/077.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 78/130 · z -233.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/078.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 79/130 · z -235.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/079.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 80/130 · z -238.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/080.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 81/130 · z -240.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/081.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 82/130 · z -243.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/082.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 83/130 · z -245.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/083.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 84/130 · z -248.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/084.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 85/130 · z -250.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/085.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 86/130 · z -253.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/086.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 87/130 · z -255.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/087.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 88/130 · z -258.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/088.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 89/130 · z -260.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/089.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 90/130 · z -263.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/090.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 91/130 · z -265.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/091.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 92/130 · z -268.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/092.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 93/130 · z -270.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/093.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 94/130 · z -273.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/094.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 95/130 · z -275.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/095.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 96/130 · z -278.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/096.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 97/130 · z -280.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/097.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 98/130 · z -283.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/098.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 99/130 · z -285.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/099.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 100/130 · z -288.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/100.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 101/130 · z -290.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/101.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 102/130 · z -293.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/102.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 103/130 · z -295.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/103.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 104/130 · z -298.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/104.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 105/130 · z -300.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/105.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 106/130 · z -303.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/106.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 107/130 · z -305.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/107.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 108/130 · z -308.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/108.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 109/130 · z -310.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/109.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 110/130 · z -313.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/110.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 111/130 · z -315.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/111.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 112/130 · z -318.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/112.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 113/130 · z -320.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/113.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 114/130 · z -323.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/114.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 115/130 · z -325.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/115.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 116/130 · z -328.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/116.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 117/130 · z -330.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/117.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 118/130 · z -333.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/118.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 119/130 · z -335.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/119.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 120/130 · z -338.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/120.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 121/130 · z -340.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/121.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 122/130 · z -343.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/122.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 123/130 · z -345.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/123.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 124/130 · z -348.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/124.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 125/130 · z -350.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/125.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 126/130 · z -353.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/126.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 127/130 · z -355.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/127.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 128/130 · z -358.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/128.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 129/130 · z -360.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0087/129.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 130/130 · z -363.0 mm"
+      }
+    ],
+    "regions": [
+      {
+        "findingKey": "nodule-1",
+        "slice": 18,
+        "x": 0.3353515625,
+        "y": 0.4525390625,
+        "width": 0.053906250000000044,
+        "height": 0.059765625000000044
+      },
+      {
+        "findingKey": "nodule-1",
+        "slice": 19,
+        "x": 0.325390625,
+        "y": 0.446484375,
+        "width": 0.07187500000000002,
+        "height": 0.07968749999999997
+      },
+      {
+        "findingKey": "nodule-1",
+        "slice": 20,
+        "x": 0.320703125,
+        "y": 0.4359375,
+        "width": 0.08125000000000004,
+        "height": 0.09296875000000004
+      },
+      {
+        "findingKey": "nodule-1",
+        "slice": 21,
+        "x": 0.3009765625,
+        "y": 0.4181640625,
+        "width": 0.11289062500000002,
+        "height": 0.11289062499999997
+      },
+      {
+        "findingKey": "nodule-1",
+        "slice": 22,
+        "x": 0.2796875,
+        "y": 0.396875,
+        "width": 0.15937500000000004,
+        "height": 0.14375000000000004
+      },
+      {
+        "findingKey": "nodule-1",
+        "slice": 23,
+        "x": 0.28896484375,
+        "y": 0.40029296875,
+        "width": 0.14277343750000004,
+        "height": 0.13496093750000004
+      },
+      {
+        "findingKey": "nodule-1",
+        "slice": 24,
+        "x": 0.30205078125,
+        "y": 0.38603515625,
+        "width": 0.12636718749999998,
+        "height": 0.13613281250000003
+      },
+      {
+        "findingKey": "nodule-1",
+        "slice": 25,
+        "x": 0.31650390625,
+        "y": 0.39072265625,
+        "width": 0.10917968749999996,
+        "height": 0.12285156249999996
+      },
+      {
+        "findingKey": "nodule-1",
+        "slice": 26,
+        "x": 0.34443359375,
+        "y": 0.42646484375,
+        "width": 0.06308593750000002,
+        "height": 0.06113281250000002
+      }
+    ]
+  },
+  {
+    "source": "LIDC-IDRI",
+    "sourceId": "LIDC-IDRI-0213",
+    "seriesInstanceUID": "1.3.6.1.4.1.14519.5.2.1.6279.6001.200841000324240313648595016964",
+    "title": "O'ng o'pkada kalsinatlangan tugun (LIDC)",
+    "modality": "CT",
+    "bodyRegion": "Ko'krak qafasi",
+    "difficulty": "EASY",
+    "clinicalInfo": "Erkak, 70 yosh. Ko'krak qafasi KT (o'pka tugunlarini aniqlash). Klinik anamnez ma'lumotlar to'plamida berilmagan. Vazifa: o'pkalardagi o'choqli tugunlarni toping, joyi, o'lchami va xususiyatlarini tavsiflang.\nManba: LIDC-IDRI (LIDC-IDRI-0213), NCI Imaging Data Commons, CC BY 3.0. Etalon xulosa 4 ta radiologning mustaqil tugun belgilashlari asosida tuzilgan; tugundan boshqa patologiyalar baholanmagan.",
+    "tags": [
+      "o'pka tuguni",
+      "haqiqiy KT",
+      "LIDC-IDRI"
+    ],
+    "referenceReport": "Texnika: Ko'krak qafasi KT, aksial kesimlar 2.5 mm (127 ta kesim), kontrastli.\nTavsif: O'ng o'pkaning yuqori zonasida 11x10 mm (maksimal diametri 10.5 mm) solid tugun, chegarasi aniq, to'liq (solid) kalsinatsiya bilan (kesimlar 34–38).\nXulosa: O'ng o'pka yuqori zonasidagi 10 mm solid tugun — xavfli bo'lish ehtimoli juda past (radiologlar bahosi 1/5).\nTavsiya: Kalsinatlangan tugun odatda xavfsiz (granuloma); qo'shimcha tekshiruv talab etilmaydi.",
+    "referenceFindings": {
+      "findings": [
+        {
+          "key": "nodule-1",
+          "text": "O'ng o'pkaning yuqori zonasida 11x10 mm (maksimal diametri 10.5 mm) solid tugun, chegarasi aniq, to'liq (solid) kalsinatsiya bilan",
+          "importance": "major",
+          "category": "finding"
+        }
+      ],
+      "impression": "O'ng o'pka yuqori zonasidagi 10 mm solid tugun — xavfli bo'lish ehtimoli juda past (radiologlar bahosi 1/5).",
+      "recommendations": "Kalsinatlangan tugun odatda xavfsiz (granuloma); qo'shimcha tekshiruv talab etilmaydi."
+    },
+    "images": [
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/000.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 1/127 · z -21.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/001.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 2/127 · z -23.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/002.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 3/127 · z -26.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/003.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 4/127 · z -28.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/004.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 5/127 · z -31.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/005.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 6/127 · z -33.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/006.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 7/127 · z -36.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/007.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 8/127 · z -38.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/008.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 9/127 · z -41.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/009.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 10/127 · z -43.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/010.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 11/127 · z -46.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/011.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 12/127 · z -48.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/012.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 13/127 · z -51.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/013.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 14/127 · z -53.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/014.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 15/127 · z -56.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/015.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 16/127 · z -58.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/016.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 17/127 · z -61.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/017.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 18/127 · z -63.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/018.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 19/127 · z -66.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/019.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 20/127 · z -68.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/020.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 21/127 · z -71.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/021.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 22/127 · z -73.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/022.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 23/127 · z -76.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/023.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 24/127 · z -78.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/024.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 25/127 · z -81.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/025.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 26/127 · z -83.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/026.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 27/127 · z -86.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/027.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 28/127 · z -88.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/028.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 29/127 · z -91.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/029.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 30/127 · z -93.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/030.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 31/127 · z -96.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/031.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 32/127 · z -98.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/032.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 33/127 · z -101.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/033.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 34/127 · z -103.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/034.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 35/127 · z -106.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/035.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 36/127 · z -108.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/036.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 37/127 · z -111.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/037.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 38/127 · z -113.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/038.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 39/127 · z -116.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/039.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 40/127 · z -118.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/040.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 41/127 · z -121.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/041.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 42/127 · z -123.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/042.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 43/127 · z -126.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/043.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 44/127 · z -128.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/044.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 45/127 · z -131.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/045.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 46/127 · z -133.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/046.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 47/127 · z -136.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/047.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 48/127 · z -138.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/048.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 49/127 · z -141.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/049.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 50/127 · z -143.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/050.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 51/127 · z -146.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/051.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 52/127 · z -148.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/052.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 53/127 · z -151.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/053.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 54/127 · z -153.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/054.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 55/127 · z -156.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/055.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 56/127 · z -158.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/056.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 57/127 · z -161.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/057.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 58/127 · z -163.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/058.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 59/127 · z -166.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/059.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 60/127 · z -168.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/060.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 61/127 · z -171.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/061.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 62/127 · z -173.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/062.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 63/127 · z -176.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/063.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 64/127 · z -178.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/064.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 65/127 · z -181.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/065.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 66/127 · z -183.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/066.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 67/127 · z -186.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/067.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 68/127 · z -188.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/068.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 69/127 · z -191.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/069.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 70/127 · z -193.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/070.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 71/127 · z -196.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/071.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 72/127 · z -198.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/072.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 73/127 · z -201.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/073.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 74/127 · z -203.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/074.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 75/127 · z -206.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/075.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 76/127 · z -208.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/076.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 77/127 · z -211.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/077.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 78/127 · z -213.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/078.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 79/127 · z -216.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/079.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 80/127 · z -218.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/080.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 81/127 · z -221.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/081.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 82/127 · z -223.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/082.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 83/127 · z -226.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/083.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 84/127 · z -228.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/084.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 85/127 · z -231.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/085.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 86/127 · z -233.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/086.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 87/127 · z -236.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/087.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 88/127 · z -238.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/088.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 89/127 · z -241.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/089.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 90/127 · z -243.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/090.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 91/127 · z -246.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/091.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 92/127 · z -248.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/092.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 93/127 · z -251.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/093.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 94/127 · z -253.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/094.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 95/127 · z -256.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/095.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 96/127 · z -258.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/096.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 97/127 · z -261.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/097.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 98/127 · z -263.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/098.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 99/127 · z -266.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/099.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 100/127 · z -268.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/100.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 101/127 · z -271.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/101.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 102/127 · z -273.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/102.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 103/127 · z -276.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/103.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 104/127 · z -278.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/104.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 105/127 · z -281.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/105.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 106/127 · z -283.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/106.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 107/127 · z -286.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/107.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 108/127 · z -288.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/108.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 109/127 · z -291.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/109.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 110/127 · z -293.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/110.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 111/127 · z -296.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/111.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 112/127 · z -298.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/112.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 113/127 · z -301.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/113.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 114/127 · z -303.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/114.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 115/127 · z -306.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/115.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 116/127 · z -308.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/116.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 117/127 · z -311.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/117.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 118/127 · z -313.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/118.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 119/127 · z -316.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/119.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 120/127 · z -318.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/120.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 121/127 · z -321.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/121.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 122/127 · z -323.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/122.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 123/127 · z -326.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/123.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 124/127 · z -328.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/124.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 125/127 · z -331.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/125.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 126/127 · z -333.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0213/126.jpg",
+        "pixelSpacing": 0.742188,
+        "label": "Aksial 127/127 · z -336.2 mm"
+      }
+    ],
+    "regions": [
+      {
+        "findingKey": "nodule-1",
+        "slice": 33,
+        "x": 0.228515625,
+        "y": 0.630859375,
+        "width": 0.03515625,
+        "height": 0.033203125
+      },
+      {
+        "findingKey": "nodule-1",
+        "slice": 34,
+        "x": 0.2228515625,
+        "y": 0.6271484375,
+        "width": 0.04648437500000002,
+        "height": 0.04257812499999991
+      },
+      {
+        "findingKey": "nodule-1",
+        "slice": 35,
+        "x": 0.22021484375,
+        "y": 0.62646484375,
+        "width": 0.0498046875,
+        "height": 0.0419921875
+      },
+      {
+        "findingKey": "nodule-1",
+        "slice": 36,
+        "x": 0.226171875,
+        "y": 0.632421875,
+        "width": 0.03984374999999998,
+        "height": 0.030078124999999956
+      },
+      {
+        "findingKey": "nodule-1",
+        "slice": 37,
+        "x": 0.234375,
+        "y": 0.634765625,
+        "width": 0.0234375,
+        "height": 0.02734375
+      }
+    ]
+  },
+  {
+    "source": "LIDC-IDRI",
+    "sourceId": "LIDC-IDRI-0330",
+    "seriesInstanceUID": "1.3.6.1.4.1.14519.5.2.1.6279.6001.398955972049286139436103068984",
+    "title": "Ko'krak qafasi KT — tugun izlash (LIDC)",
+    "modality": "CT",
+    "bodyRegion": "Ko'krak qafasi",
+    "difficulty": "MEDIUM",
+    "clinicalInfo": "Ko'krak qafasi KT (o'pka tugunlarini aniqlash). Klinik anamnez ma'lumotlar to'plamida berilmagan. Vazifa: o'pkalardagi o'choqli tugunlarni toping, joyi, o'lchami va xususiyatlarini tavsiflang.\nManba: LIDC-IDRI (LIDC-IDRI-0330), NCI Imaging Data Commons, CC BY 3.0. Etalon xulosa 4 ta radiologning mustaqil tugun belgilashlari asosida tuzilgan; tugundan boshqa patologiyalar baholanmagan.",
+    "tags": [
+      "o'pka tuguni",
+      "haqiqiy KT",
+      "LIDC-IDRI",
+      "norma"
+    ],
+    "referenceReport": "Texnika: Ko'krak qafasi KT, aksial kesimlar 2.5 mm (107 ta kesim), kontrast qo'llanmagan.\nTavsif: Ikkala o'pkada ham 3 mm dan katta o'choqli tugunlar aniqlanmaydi.\nXulosa: O'pkalarda o'choqli tugunlar aniqlanmadi.\nTavsiya: Klinik ko'rsatmaga ko'ra rejali kuzatuv; qo'shimcha tekshiruv talab etilmaydi.",
+    "referenceFindings": {
+      "findings": [
+        {
+          "key": "no-nodules",
+          "text": "Ikkala o'pkada ham 3 mm dan katta o'choqli tugunlar aniqlanmaydi",
+          "importance": "critical",
+          "category": "normal_structure"
+        }
+      ],
+      "impression": "O'pkalarda o'choqli tugunlar aniqlanmadi.",
+      "recommendations": "Klinik ko'rsatmaga ko'ra rejali kuzatuv; qo'shimcha tekshiruv talab etilmaydi."
+    },
+    "images": [
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/000.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 1/107 · z -15.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/001.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 2/107 · z -17.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/002.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 3/107 · z -20.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/003.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 4/107 · z -22.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/004.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 5/107 · z -25.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/005.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 6/107 · z -27.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/006.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 7/107 · z -30.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/007.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 8/107 · z -32.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/008.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 9/107 · z -35.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/009.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 10/107 · z -37.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/010.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 11/107 · z -40.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/011.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 12/107 · z -42.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/012.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 13/107 · z -45.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/013.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 14/107 · z -47.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/014.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 15/107 · z -50.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/015.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 16/107 · z -52.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/016.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 17/107 · z -55.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/017.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 18/107 · z -57.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/018.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 19/107 · z -60.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/019.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 20/107 · z -62.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/020.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 21/107 · z -65.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/021.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 22/107 · z -67.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/022.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 23/107 · z -70.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/023.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 24/107 · z -72.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/024.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 25/107 · z -75.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/025.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 26/107 · z -77.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/026.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 27/107 · z -80.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/027.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 28/107 · z -82.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/028.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 29/107 · z -85.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/029.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 30/107 · z -87.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/030.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 31/107 · z -90.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/031.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 32/107 · z -92.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/032.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 33/107 · z -95.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/033.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 34/107 · z -97.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/034.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 35/107 · z -100.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/035.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 36/107 · z -102.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/036.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 37/107 · z -105.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/037.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 38/107 · z -107.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/038.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 39/107 · z -110.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/039.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 40/107 · z -112.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/040.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 41/107 · z -115.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/041.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 42/107 · z -117.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/042.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 43/107 · z -120.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/043.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 44/107 · z -122.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/044.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 45/107 · z -125.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/045.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 46/107 · z -127.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/046.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 47/107 · z -130.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/047.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 48/107 · z -132.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/048.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 49/107 · z -135.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/049.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 50/107 · z -137.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/050.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 51/107 · z -140.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/051.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 52/107 · z -142.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/052.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 53/107 · z -145.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/053.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 54/107 · z -147.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/054.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 55/107 · z -150.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/055.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 56/107 · z -152.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/056.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 57/107 · z -155.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/057.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 58/107 · z -157.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/058.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 59/107 · z -160.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/059.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 60/107 · z -162.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/060.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 61/107 · z -165.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/061.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 62/107 · z -167.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/062.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 63/107 · z -170.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/063.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 64/107 · z -172.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/064.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 65/107 · z -175.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/065.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 66/107 · z -177.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/066.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 67/107 · z -180.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/067.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 68/107 · z -182.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/068.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 69/107 · z -185.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/069.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 70/107 · z -187.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/070.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 71/107 · z -190.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/071.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 72/107 · z -192.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/072.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 73/107 · z -195.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/073.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 74/107 · z -197.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/074.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 75/107 · z -200.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/075.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 76/107 · z -202.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/076.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 77/107 · z -205.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/077.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 78/107 · z -207.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/078.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 79/107 · z -210.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/079.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 80/107 · z -212.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/080.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 81/107 · z -215.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/081.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 82/107 · z -217.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/082.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 83/107 · z -220.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/083.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 84/107 · z -222.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/084.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 85/107 · z -225.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/085.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 86/107 · z -227.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/086.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 87/107 · z -230.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/087.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 88/107 · z -232.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/088.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 89/107 · z -235.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/089.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 90/107 · z -237.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/090.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 91/107 · z -240.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/091.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 92/107 · z -242.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/092.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 93/107 · z -245.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/093.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 94/107 · z -247.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/094.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 95/107 · z -250.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/095.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 96/107 · z -252.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/096.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 97/107 · z -255.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/097.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 98/107 · z -257.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/098.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 99/107 · z -260.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/099.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 100/107 · z -262.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/100.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 101/107 · z -265.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/101.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 102/107 · z -267.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/102.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 103/107 · z -270.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/103.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 104/107 · z -272.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/104.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 105/107 · z -275.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/105.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 106/107 · z -277.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0330/106.jpg",
+        "pixelSpacing": 0.53125,
+        "label": "Aksial 107/107 · z -280.0 mm"
+      }
+    ],
+    "regions": []
+  },
+  {
+    "source": "LIDC-IDRI",
+    "sourceId": "LIDC-IDRI-0208",
+    "seriesInstanceUID": "1.3.6.1.4.1.14519.5.2.1.6279.6001.310395752124284049604069960014",
+    "title": "Bir nechta o'pka tugunlari (3 ta) (LIDC)",
+    "modality": "CT",
+    "bodyRegion": "Ko'krak qafasi",
+    "difficulty": "MEDIUM",
+    "clinicalInfo": "Ko'krak qafasi KT (o'pka tugunlarini aniqlash). Klinik anamnez ma'lumotlar to'plamida berilmagan. Vazifa: o'pkalardagi o'choqli tugunlarni toping, joyi, o'lchami va xususiyatlarini tavsiflang.\nManba: LIDC-IDRI (LIDC-IDRI-0208), NCI Imaging Data Commons, CC BY 3.0. Etalon xulosa 4 ta radiologning mustaqil tugun belgilashlari asosida tuzilgan; tugundan boshqa patologiyalar baholanmagan.",
+    "tags": [
+      "o'pka tuguni",
+      "haqiqiy KT",
+      "LIDC-IDRI"
+    ],
+    "referenceReport": "Texnika: Ko'krak qafasi KT, aksial kesimlar 2.5 mm (109 ta kesim), kontrast qo'llanmagan.\nTavsif: O'ng o'pkaning o'rta zonasida 13x10 mm (maksimal diametri 9.8 mm) solid tugun, chegarasi qisman aniq (kesimlar 68–70). O'ng o'pkaning yuqori zonasida 7x7 mm (maksimal diametri 6.3 mm) solid tugun, chegarasi aniq (kesimlar 36–38). O'ng o'pkaning o'rta zonasida 7x7 mm (maksimal diametri 5.5 mm) asosan solid tugun, chegarasi aniq (kesimlar 59–60).\nXulosa: O'ng o'pka o'rta zonasidagi 10 mm solid tugun — xavfli o'smaga o'rtacha shubha (radiologlar bahosi 3.5/5); O'ng o'pka yuqori zonasidagi 6 mm solid tugun — xavfliligi noaniq (radiologlar bahosi 3/5); O'ng o'pka o'rta zonasidagi 6 mm asosan solid tugun — xavfliligi noaniq (radiologlar bahosi 3/5).\nTavsiya: 3–6 oydan keyin nazorat KT, tugun o'lchami dinamikasini baholash.",
+    "referenceFindings": {
+      "findings": [
+        {
+          "key": "nodule-1",
+          "text": "O'ng o'pkaning o'rta zonasida 13x10 mm (maksimal diametri 9.8 mm) solid tugun, chegarasi qisman aniq",
+          "importance": "major",
+          "category": "finding"
+        },
+        {
+          "key": "nodule-2",
+          "text": "O'ng o'pkaning yuqori zonasida 7x7 mm (maksimal diametri 6.3 mm) solid tugun, chegarasi aniq",
+          "importance": "major",
+          "category": "finding"
+        },
+        {
+          "key": "nodule-3",
+          "text": "O'ng o'pkaning o'rta zonasida 7x7 mm (maksimal diametri 5.5 mm) asosan solid tugun, chegarasi aniq",
+          "importance": "major",
+          "category": "finding"
+        }
+      ],
+      "impression": "O'ng o'pka o'rta zonasidagi 10 mm solid tugun — xavfli o'smaga o'rtacha shubha (radiologlar bahosi 3.5/5); O'ng o'pka yuqori zonasidagi 6 mm solid tugun — xavfliligi noaniq (radiologlar bahosi 3/5); O'ng o'pka o'rta zonasidagi 6 mm asosan solid tugun — xavfliligi noaniq (radiologlar bahosi 3/5).",
+      "recommendations": "3–6 oydan keyin nazorat KT, tugun o'lchami dinamikasini baholash."
+    },
+    "images": [
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/000.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 1/109 · z 20.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/001.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 2/109 · z 17.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/002.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 3/109 · z 15.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/003.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 4/109 · z 12.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/004.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 5/109 · z 10.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/005.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 6/109 · z 7.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/006.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 7/109 · z 5.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/007.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 8/109 · z 2.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/008.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 9/109 · z 0.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/009.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 10/109 · z -2.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/010.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 11/109 · z -5.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/011.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 12/109 · z -7.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/012.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 13/109 · z -10.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/013.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 14/109 · z -12.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/014.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 15/109 · z -15.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/015.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 16/109 · z -17.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/016.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 17/109 · z -20.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/017.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 18/109 · z -22.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/018.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 19/109 · z -25.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/019.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 20/109 · z -27.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/020.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 21/109 · z -30.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/021.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 22/109 · z -32.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/022.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 23/109 · z -35.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/023.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 24/109 · z -37.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/024.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 25/109 · z -40.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/025.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 26/109 · z -42.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/026.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 27/109 · z -45.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/027.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 28/109 · z -47.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/028.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 29/109 · z -50.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/029.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 30/109 · z -52.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/030.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 31/109 · z -55.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/031.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 32/109 · z -57.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/032.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 33/109 · z -60.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/033.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 34/109 · z -62.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/034.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 35/109 · z -65.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/035.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 36/109 · z -67.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/036.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 37/109 · z -70.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/037.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 38/109 · z -72.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/038.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 39/109 · z -75.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/039.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 40/109 · z -77.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/040.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 41/109 · z -80.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/041.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 42/109 · z -82.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/042.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 43/109 · z -85.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/043.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 44/109 · z -87.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/044.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 45/109 · z -90.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/045.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 46/109 · z -92.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/046.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 47/109 · z -95.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/047.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 48/109 · z -97.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/048.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 49/109 · z -100.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/049.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 50/109 · z -102.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/050.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 51/109 · z -105.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/051.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 52/109 · z -107.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/052.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 53/109 · z -110.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/053.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 54/109 · z -112.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/054.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 55/109 · z -115.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/055.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 56/109 · z -117.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/056.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 57/109 · z -120.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/057.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 58/109 · z -122.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/058.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 59/109 · z -125.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/059.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 60/109 · z -127.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/060.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 61/109 · z -130.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/061.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 62/109 · z -132.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/062.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 63/109 · z -135.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/063.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 64/109 · z -137.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/064.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 65/109 · z -140.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/065.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 66/109 · z -142.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/066.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 67/109 · z -145.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/067.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 68/109 · z -147.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/068.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 69/109 · z -150.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/069.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 70/109 · z -152.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/070.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 71/109 · z -155.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/071.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 72/109 · z -157.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/072.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 73/109 · z -160.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/073.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 74/109 · z -162.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/074.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 75/109 · z -165.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/075.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 76/109 · z -167.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/076.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 77/109 · z -170.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/077.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 78/109 · z -172.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/078.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 79/109 · z -175.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/079.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 80/109 · z -177.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/080.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 81/109 · z -180.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/081.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 82/109 · z -182.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/082.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 83/109 · z -185.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/083.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 84/109 · z -187.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/084.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 85/109 · z -190.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/085.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 86/109 · z -192.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/086.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 87/109 · z -195.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/087.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 88/109 · z -197.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/088.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 89/109 · z -200.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/089.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 90/109 · z -202.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/090.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 91/109 · z -205.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/091.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 92/109 · z -207.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/092.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 93/109 · z -210.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/093.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 94/109 · z -212.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/094.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 95/109 · z -215.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/095.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 96/109 · z -217.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/096.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 97/109 · z -220.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/097.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 98/109 · z -222.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/098.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 99/109 · z -225.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/099.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 100/109 · z -227.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/100.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 101/109 · z -230.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/101.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 102/109 · z -232.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/102.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 103/109 · z -235.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/103.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 104/109 · z -237.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/104.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 105/109 · z -240.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/105.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 106/109 · z -242.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/106.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 107/109 · z -245.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/107.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 108/109 · z -247.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0208/108.jpg",
+        "pixelSpacing": 0.664062,
+        "label": "Aksial 109/109 · z -250.0 mm"
+      }
+    ],
+    "regions": [
+      {
+        "findingKey": "nodule-1",
+        "slice": 67,
+        "x": 0.37373046875,
+        "y": 0.26630859375,
+        "width": 0.06308593750000002,
+        "height": 0.05332031250000002
+      },
+      {
+        "findingKey": "nodule-1",
+        "slice": 68,
+        "x": 0.37314453125,
+        "y": 0.26376953125,
+        "width": 0.056445312499999956,
+        "height": 0.052539062499999956
+      },
+      {
+        "findingKey": "nodule-1",
+        "slice": 69,
+        "x": 0.38046875,
+        "y": 0.273046875,
+        "width": 0.039843749999999956,
+        "height": 0.035937499999999956
+      },
+      {
+        "findingKey": "nodule-2",
+        "slice": 35,
+        "x": 0.185546875,
+        "y": 0.421875,
+        "width": 0.02734375,
+        "height": 0.029296875
+      },
+      {
+        "findingKey": "nodule-2",
+        "slice": 36,
+        "x": 0.18359375,
+        "y": 0.419921875,
+        "width": 0.03515625,
+        "height": 0.033203125
+      },
+      {
+        "findingKey": "nodule-2",
+        "slice": 37,
+        "x": 0.185546875,
+        "y": 0.419921875,
+        "width": 0.033203125,
+        "height": 0.03125
+      },
+      {
+        "findingKey": "nodule-3",
+        "slice": 58,
+        "x": 0.23828125,
+        "y": 0.517578125,
+        "width": 0.03125,
+        "height": 0.03125
+      },
+      {
+        "findingKey": "nodule-3",
+        "slice": 59,
+        "x": 0.23828125,
+        "y": 0.515625,
+        "width": 0.033203125,
+        "height": 0.033203125
+      }
+    ]
+  },
+  {
+    "source": "LIDC-IDRI",
+    "sourceId": "LIDC-IDRI-0497",
+    "seriesInstanceUID": "1.3.6.1.4.1.14519.5.2.1.6279.6001.265780642925621389994857727416",
+    "title": "O'ng o'pkada xira shisha tuguni (LIDC)",
+    "modality": "CT",
+    "bodyRegion": "Ko'krak qafasi",
+    "difficulty": "HARD",
+    "clinicalInfo": "Ko'krak qafasi KT (o'pka tugunlarini aniqlash). Klinik anamnez ma'lumotlar to'plamida berilmagan. Vazifa: o'pkalardagi o'choqli tugunlarni toping, joyi, o'lchami va xususiyatlarini tavsiflang.\nManba: LIDC-IDRI (LIDC-IDRI-0497), NCI Imaging Data Commons, CC BY 3.0. Etalon xulosa 4 ta radiologning mustaqil tugun belgilashlari asosida tuzilgan; tugundan boshqa patologiyalar baholanmagan.",
+    "tags": [
+      "o'pka tuguni",
+      "haqiqiy KT",
+      "LIDC-IDRI",
+      "o'sma"
+    ],
+    "referenceReport": "Texnika: Ko'krak qafasi KT, aksial kesimlar 1.25 mm (236 ta kesim), kontrast qo'llanmagan.\nTavsif: O'ng o'pkaning o'rta zonasida 20x18 mm (maksimal diametri 17.6 mm) xira shisha (non-solid) tugun, chegarasi noaniq (kesimlar 92–98).\nXulosa: O'ng o'pka o'rta zonasidagi 18 mm xira shisha tugun — xavfli o'smaga o'rtacha shubha (radiologlar bahosi 4/5).\nTavsiya: Xira shisha tuguni — 6–12 oydan keyin nazorat KT (o'sish yoki solid qism paydo bo'lishini kuzatish); saqlanib qolsa, pulmonolog konsultatsiyasi.",
+    "referenceFindings": {
+      "findings": [
+        {
+          "key": "nodule-1",
+          "text": "O'ng o'pkaning o'rta zonasida 20x18 mm (maksimal diametri 17.6 mm) xira shisha (non-solid) tugun, chegarasi noaniq",
+          "importance": "critical",
+          "category": "finding"
+        }
+      ],
+      "impression": "O'ng o'pka o'rta zonasidagi 18 mm xira shisha tugun — xavfli o'smaga o'rtacha shubha (radiologlar bahosi 4/5).",
+      "recommendations": "Xira shisha tuguni — 6–12 oydan keyin nazorat KT (o'sish yoki solid qism paydo bo'lishini kuzatish); saqlanib qolsa, pulmonolog konsultatsiyasi."
+    },
+    "images": [
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/000.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 1/236 · z -2.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/001.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 2/236 · z -3.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/002.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 3/236 · z -4.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/003.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 4/236 · z -6.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/004.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 5/236 · z -7.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/005.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 6/236 · z -8.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/006.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 7/236 · z -9.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/007.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 8/236 · z -11.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/008.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 9/236 · z -12.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/009.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 10/236 · z -13.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/010.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 11/236 · z -14.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/011.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 12/236 · z -16.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/012.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 13/236 · z -17.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/013.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 14/236 · z -18.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/014.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 15/236 · z -19.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/015.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 16/236 · z -21.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/016.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 17/236 · z -22.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/017.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 18/236 · z -23.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/018.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 19/236 · z -24.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/019.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 20/236 · z -26.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/020.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 21/236 · z -27.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/021.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 22/236 · z -28.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/022.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 23/236 · z -29.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/023.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 24/236 · z -31.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/024.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 25/236 · z -32.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/025.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 26/236 · z -33.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/026.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 27/236 · z -34.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/027.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 28/236 · z -36.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/028.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 29/236 · z -37.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/029.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 30/236 · z -38.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/030.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 31/236 · z -39.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/031.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 32/236 · z -41.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/032.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 33/236 · z -42.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/033.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 34/236 · z -43.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/034.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 35/236 · z -44.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/035.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 36/236 · z -46.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/036.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 37/236 · z -47.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/037.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 38/236 · z -48.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/038.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 39/236 · z -49.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/039.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 40/236 · z -51.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/040.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 41/236 · z -52.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/041.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 42/236 · z -53.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/042.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 43/236 · z -54.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/043.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 44/236 · z -56.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/044.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 45/236 · z -57.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/045.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 46/236 · z -58.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/046.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 47/236 · z -59.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/047.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 48/236 · z -61.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/048.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 49/236 · z -62.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/049.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 50/236 · z -63.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/050.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 51/236 · z -64.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/051.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 52/236 · z -66.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/052.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 53/236 · z -67.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/053.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 54/236 · z -68.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/054.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 55/236 · z -69.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/055.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 56/236 · z -71.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/056.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 57/236 · z -72.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/057.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 58/236 · z -73.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/058.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 59/236 · z -74.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/059.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 60/236 · z -76.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/060.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 61/236 · z -77.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/061.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 62/236 · z -78.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/062.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 63/236 · z -79.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/063.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 64/236 · z -81.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/064.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 65/236 · z -82.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/065.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 66/236 · z -83.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/066.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 67/236 · z -84.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/067.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 68/236 · z -86.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/068.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 69/236 · z -87.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/069.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 70/236 · z -88.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/070.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 71/236 · z -89.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/071.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 72/236 · z -91.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/072.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 73/236 · z -92.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/073.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 74/236 · z -93.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/074.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 75/236 · z -94.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/075.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 76/236 · z -96.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/076.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 77/236 · z -97.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/077.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 78/236 · z -98.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/078.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 79/236 · z -99.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/079.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 80/236 · z -101.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/080.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 81/236 · z -102.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/081.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 82/236 · z -103.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/082.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 83/236 · z -104.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/083.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 84/236 · z -106.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/084.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 85/236 · z -107.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/085.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 86/236 · z -108.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/086.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 87/236 · z -109.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/087.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 88/236 · z -111.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/088.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 89/236 · z -112.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/089.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 90/236 · z -113.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/090.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 91/236 · z -114.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/091.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 92/236 · z -116.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/092.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 93/236 · z -117.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/093.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 94/236 · z -118.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/094.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 95/236 · z -119.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/095.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 96/236 · z -121.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/096.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 97/236 · z -122.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/097.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 98/236 · z -123.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/098.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 99/236 · z -124.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/099.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 100/236 · z -126.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/100.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 101/236 · z -127.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/101.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 102/236 · z -128.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/102.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 103/236 · z -129.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/103.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 104/236 · z -131.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/104.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 105/236 · z -132.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/105.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 106/236 · z -133.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/106.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 107/236 · z -134.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/107.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 108/236 · z -136.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/108.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 109/236 · z -137.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/109.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 110/236 · z -138.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/110.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 111/236 · z -139.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/111.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 112/236 · z -141.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/112.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 113/236 · z -142.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/113.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 114/236 · z -143.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/114.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 115/236 · z -144.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/115.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 116/236 · z -146.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/116.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 117/236 · z -147.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/117.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 118/236 · z -148.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/118.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 119/236 · z -149.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/119.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 120/236 · z -151.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/120.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 121/236 · z -152.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/121.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 122/236 · z -153.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/122.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 123/236 · z -154.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/123.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 124/236 · z -156.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/124.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 125/236 · z -157.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/125.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 126/236 · z -158.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/126.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 127/236 · z -159.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/127.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 128/236 · z -161.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/128.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 129/236 · z -162.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/129.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 130/236 · z -163.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/130.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 131/236 · z -164.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/131.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 132/236 · z -166.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/132.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 133/236 · z -167.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/133.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 134/236 · z -168.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/134.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 135/236 · z -169.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/135.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 136/236 · z -171.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/136.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 137/236 · z -172.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/137.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 138/236 · z -173.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/138.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 139/236 · z -174.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/139.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 140/236 · z -176.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/140.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 141/236 · z -177.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/141.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 142/236 · z -178.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/142.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 143/236 · z -179.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/143.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 144/236 · z -181.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/144.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 145/236 · z -182.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/145.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 146/236 · z -183.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/146.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 147/236 · z -184.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/147.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 148/236 · z -186.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/148.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 149/236 · z -187.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/149.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 150/236 · z -188.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/150.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 151/236 · z -189.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/151.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 152/236 · z -191.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/152.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 153/236 · z -192.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/153.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 154/236 · z -193.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/154.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 155/236 · z -194.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/155.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 156/236 · z -196.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/156.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 157/236 · z -197.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/157.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 158/236 · z -198.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/158.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 159/236 · z -199.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/159.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 160/236 · z -201.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/160.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 161/236 · z -202.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/161.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 162/236 · z -203.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/162.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 163/236 · z -204.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/163.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 164/236 · z -206.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/164.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 165/236 · z -207.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/165.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 166/236 · z -208.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/166.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 167/236 · z -209.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/167.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 168/236 · z -211.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/168.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 169/236 · z -212.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/169.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 170/236 · z -213.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/170.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 171/236 · z -214.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/171.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 172/236 · z -216.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/172.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 173/236 · z -217.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/173.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 174/236 · z -218.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/174.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 175/236 · z -219.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/175.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 176/236 · z -221.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/176.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 177/236 · z -222.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/177.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 178/236 · z -223.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/178.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 179/236 · z -224.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/179.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 180/236 · z -226.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/180.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 181/236 · z -227.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/181.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 182/236 · z -228.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/182.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 183/236 · z -229.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/183.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 184/236 · z -231.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/184.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 185/236 · z -232.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/185.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 186/236 · z -233.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/186.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 187/236 · z -234.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/187.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 188/236 · z -236.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/188.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 189/236 · z -237.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/189.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 190/236 · z -238.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/190.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 191/236 · z -239.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/191.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 192/236 · z -241.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/192.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 193/236 · z -242.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/193.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 194/236 · z -243.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/194.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 195/236 · z -244.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/195.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 196/236 · z -246.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/196.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 197/236 · z -247.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/197.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 198/236 · z -248.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/198.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 199/236 · z -249.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/199.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 200/236 · z -251.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/200.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 201/236 · z -252.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/201.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 202/236 · z -253.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/202.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 203/236 · z -254.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/203.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 204/236 · z -256.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/204.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 205/236 · z -257.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/205.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 206/236 · z -258.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/206.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 207/236 · z -259.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/207.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 208/236 · z -261.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/208.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 209/236 · z -262.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/209.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 210/236 · z -263.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/210.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 211/236 · z -264.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/211.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 212/236 · z -266.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/212.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 213/236 · z -267.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/213.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 214/236 · z -268.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/214.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 215/236 · z -269.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/215.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 216/236 · z -271.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/216.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 217/236 · z -272.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/217.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 218/236 · z -273.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/218.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 219/236 · z -274.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/219.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 220/236 · z -276.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/220.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 221/236 · z -277.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/221.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 222/236 · z -278.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/222.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 223/236 · z -279.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/223.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 224/236 · z -281.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/224.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 225/236 · z -282.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/225.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 226/236 · z -283.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/226.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 227/236 · z -284.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/227.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 228/236 · z -286.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/228.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 229/236 · z -287.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/229.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 230/236 · z -288.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/230.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 231/236 · z -289.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/231.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 232/236 · z -291.0 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/232.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 233/236 · z -292.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/233.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 234/236 · z -293.5 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/234.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 235/236 · z -294.8 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0497/235.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 236/236 · z -296.0 mm"
+      }
+    ],
+    "regions": [
+      {
+        "findingKey": "nodule-1",
+        "slice": 91,
+        "x": 0.1458984375,
+        "y": 0.4134765625,
+        "width": 0.05976562499999999,
+        "height": 0.048046875000000044
+      },
+      {
+        "findingKey": "nodule-1",
+        "slice": 92,
+        "x": 0.1359375,
+        "y": 0.409375,
+        "width": 0.07968750000000002,
+        "height": 0.05820312500000002
+      },
+      {
+        "findingKey": "nodule-1",
+        "slice": 93,
+        "x": 0.12939453125,
+        "y": 0.41064453125,
+        "width": 0.0830078125,
+        "height": 0.0732421875
+      },
+      {
+        "findingKey": "nodule-1",
+        "slice": 94,
+        "x": 0.125390625,
+        "y": 0.4046875,
+        "width": 0.09296874999999999,
+        "height": 0.08515625000000004
+      },
+      {
+        "findingKey": "nodule-1",
+        "slice": 95,
+        "x": 0.13056640625,
+        "y": 0.40400390625,
+        "width": 0.09628906250000002,
+        "height": 0.08261718750000002
+      },
+      {
+        "findingKey": "nodule-1",
+        "slice": 96,
+        "x": 0.13984375,
+        "y": 0.403515625,
+        "width": 0.07187500000000002,
+        "height": 0.07968750000000002
+      },
+      {
+        "findingKey": "nodule-1",
+        "slice": 97,
+        "x": 0.14921875,
+        "y": 0.420703125,
+        "width": 0.05312499999999998,
+        "height": 0.04335937499999998
+      }
+    ]
+  },
+  {
+    "source": "LIDC-IDRI",
+    "sourceId": "LIDC-IDRI-0915",
+    "seriesInstanceUID": "1.3.6.1.4.1.14519.5.2.1.6279.6001.305887072264491016857673607285",
+    "title": "O'ng o'pkada kichik tikanli tugun (LIDC)",
+    "modality": "CT",
+    "bodyRegion": "Ko'krak qafasi",
+    "difficulty": "HARD",
+    "clinicalInfo": "Ko'krak qafasi KT (o'pka tugunlarini aniqlash). Klinik anamnez ma'lumotlar to'plamida berilmagan. Vazifa: o'pkalardagi o'choqli tugunlarni toping, joyi, o'lchami va xususiyatlarini tavsiflang.\nManba: LIDC-IDRI (LIDC-IDRI-0915), NCI Imaging Data Commons, CC BY 3.0. Etalon xulosa 4 ta radiologning mustaqil tugun belgilashlari asosida tuzilgan; tugundan boshqa patologiyalar baholanmagan.",
+    "tags": [
+      "o'pka tuguni",
+      "haqiqiy KT",
+      "LIDC-IDRI"
+    ],
+    "referenceReport": "Texnika: Ko'krak qafasi KT, aksial kesimlar 1.25 mm (267 ta kesim), kontrast qo'llanmagan.\nTavsif: O'ng o'pkaning o'rta zonasida 10x11 mm (maksimal diametri 10.1 mm) solid tugun, chegarasi aniq, aniq spikulali (tikanli) konturli, bo'lakli konturli (kesimlar 149–153).\nXulosa: O'ng o'pka o'rta zonasidagi 10 mm solid tugun — xavfliligi noaniq (radiologlar bahosi 3/5).\nTavsiya: 3–6 oydan keyin nazorat KT, tugun o'lchami dinamikasini baholash.",
+    "referenceFindings": {
+      "findings": [
+        {
+          "key": "nodule-1",
+          "text": "O'ng o'pkaning o'rta zonasida 10x11 mm (maksimal diametri 10.1 mm) solid tugun, chegarasi aniq, aniq spikulali (tikanli) konturli, bo'lakli konturli",
+          "importance": "major",
+          "category": "finding"
+        }
+      ],
+      "impression": "O'ng o'pka o'rta zonasidagi 10 mm solid tugun — xavfliligi noaniq (radiologlar bahosi 3/5).",
+      "recommendations": "3–6 oydan keyin nazorat KT, tugun o'lchami dinamikasini baholash."
+    },
+    "images": [
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/000.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 1/267 · z -25.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/001.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 2/267 · z -26.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/002.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 3/267 · z -28.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/003.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 4/267 · z -29.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/004.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 5/267 · z -30.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/005.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 6/267 · z -31.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/006.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 7/267 · z -33.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/007.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 8/267 · z -34.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/008.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 9/267 · z -35.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/009.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 10/267 · z -36.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/010.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 11/267 · z -38.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/011.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 12/267 · z -39.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/012.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 13/267 · z -40.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/013.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 14/267 · z -41.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/014.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 15/267 · z -43.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/015.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 16/267 · z -44.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/016.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 17/267 · z -45.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/017.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 18/267 · z -46.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/018.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 19/267 · z -48.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/019.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 20/267 · z -49.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/020.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 21/267 · z -50.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/021.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 22/267 · z -51.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/022.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 23/267 · z -53.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/023.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 24/267 · z -54.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/024.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 25/267 · z -55.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/025.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 26/267 · z -56.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/026.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 27/267 · z -58.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/027.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 28/267 · z -59.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/028.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 29/267 · z -60.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/029.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 30/267 · z -61.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/030.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 31/267 · z -63.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/031.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 32/267 · z -64.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/032.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 33/267 · z -65.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/033.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 34/267 · z -66.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/034.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 35/267 · z -68.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/035.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 36/267 · z -69.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/036.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 37/267 · z -70.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/037.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 38/267 · z -71.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/038.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 39/267 · z -73.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/039.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 40/267 · z -74.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/040.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 41/267 · z -75.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/041.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 42/267 · z -76.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/042.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 43/267 · z -78.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/043.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 44/267 · z -79.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/044.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 45/267 · z -80.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/045.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 46/267 · z -81.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/046.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 47/267 · z -83.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/047.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 48/267 · z -84.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/048.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 49/267 · z -85.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/049.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 50/267 · z -86.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/050.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 51/267 · z -88.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/051.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 52/267 · z -89.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/052.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 53/267 · z -90.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/053.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 54/267 · z -91.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/054.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 55/267 · z -93.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/055.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 56/267 · z -94.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/056.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 57/267 · z -95.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/057.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 58/267 · z -96.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/058.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 59/267 · z -98.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/059.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 60/267 · z -99.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/060.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 61/267 · z -100.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/061.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 62/267 · z -101.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/062.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 63/267 · z -103.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/063.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 64/267 · z -104.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/064.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 65/267 · z -105.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/065.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 66/267 · z -106.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/066.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 67/267 · z -108.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/067.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 68/267 · z -109.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/068.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 69/267 · z -110.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/069.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 70/267 · z -111.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/070.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 71/267 · z -113.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/071.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 72/267 · z -114.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/072.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 73/267 · z -115.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/073.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 74/267 · z -116.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/074.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 75/267 · z -118.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/075.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 76/267 · z -119.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/076.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 77/267 · z -120.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/077.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 78/267 · z -121.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/078.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 79/267 · z -123.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/079.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 80/267 · z -124.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/080.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 81/267 · z -125.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/081.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 82/267 · z -126.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/082.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 83/267 · z -128.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/083.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 84/267 · z -129.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/084.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 85/267 · z -130.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/085.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 86/267 · z -131.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/086.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 87/267 · z -133.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/087.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 88/267 · z -134.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/088.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 89/267 · z -135.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/089.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 90/267 · z -136.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/090.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 91/267 · z -138.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/091.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 92/267 · z -139.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/092.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 93/267 · z -140.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/093.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 94/267 · z -141.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/094.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 95/267 · z -143.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/095.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 96/267 · z -144.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/096.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 97/267 · z -145.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/097.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 98/267 · z -146.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/098.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 99/267 · z -148.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/099.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 100/267 · z -149.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/100.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 101/267 · z -150.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/101.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 102/267 · z -151.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/102.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 103/267 · z -153.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/103.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 104/267 · z -154.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/104.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 105/267 · z -155.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/105.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 106/267 · z -156.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/106.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 107/267 · z -158.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/107.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 108/267 · z -159.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/108.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 109/267 · z -160.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/109.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 110/267 · z -161.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/110.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 111/267 · z -163.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/111.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 112/267 · z -164.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/112.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 113/267 · z -165.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/113.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 114/267 · z -166.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/114.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 115/267 · z -168.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/115.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 116/267 · z -169.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/116.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 117/267 · z -170.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/117.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 118/267 · z -171.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/118.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 119/267 · z -173.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/119.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 120/267 · z -174.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/120.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 121/267 · z -175.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/121.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 122/267 · z -176.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/122.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 123/267 · z -178.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/123.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 124/267 · z -179.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/124.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 125/267 · z -180.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/125.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 126/267 · z -181.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/126.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 127/267 · z -183.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/127.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 128/267 · z -184.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/128.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 129/267 · z -185.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/129.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 130/267 · z -186.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/130.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 131/267 · z -188.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/131.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 132/267 · z -189.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/132.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 133/267 · z -190.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/133.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 134/267 · z -191.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/134.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 135/267 · z -193.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/135.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 136/267 · z -194.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/136.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 137/267 · z -195.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/137.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 138/267 · z -196.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/138.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 139/267 · z -198.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/139.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 140/267 · z -199.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/140.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 141/267 · z -200.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/141.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 142/267 · z -201.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/142.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 143/267 · z -203.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/143.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 144/267 · z -204.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/144.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 145/267 · z -205.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/145.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 146/267 · z -206.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/146.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 147/267 · z -208.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/147.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 148/267 · z -209.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/148.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 149/267 · z -210.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/149.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 150/267 · z -211.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/150.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 151/267 · z -213.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/151.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 152/267 · z -214.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/152.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 153/267 · z -215.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/153.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 154/267 · z -216.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/154.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 155/267 · z -218.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/155.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 156/267 · z -219.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/156.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 157/267 · z -220.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/157.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 158/267 · z -221.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/158.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 159/267 · z -223.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/159.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 160/267 · z -224.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/160.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 161/267 · z -225.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/161.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 162/267 · z -226.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/162.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 163/267 · z -228.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/163.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 164/267 · z -229.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/164.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 165/267 · z -230.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/165.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 166/267 · z -231.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/166.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 167/267 · z -233.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/167.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 168/267 · z -234.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/168.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 169/267 · z -235.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/169.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 170/267 · z -236.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/170.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 171/267 · z -238.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/171.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 172/267 · z -239.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/172.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 173/267 · z -240.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/173.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 174/267 · z -241.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/174.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 175/267 · z -243.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/175.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 176/267 · z -244.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/176.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 177/267 · z -245.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/177.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 178/267 · z -246.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/178.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 179/267 · z -248.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/179.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 180/267 · z -249.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/180.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 181/267 · z -250.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/181.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 182/267 · z -251.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/182.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 183/267 · z -253.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/183.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 184/267 · z -254.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/184.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 185/267 · z -255.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/185.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 186/267 · z -256.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/186.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 187/267 · z -258.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/187.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 188/267 · z -259.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/188.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 189/267 · z -260.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/189.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 190/267 · z -261.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/190.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 191/267 · z -263.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/191.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 192/267 · z -264.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/192.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 193/267 · z -265.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/193.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 194/267 · z -266.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/194.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 195/267 · z -268.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/195.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 196/267 · z -269.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/196.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 197/267 · z -270.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/197.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 198/267 · z -271.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/198.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 199/267 · z -273.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/199.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 200/267 · z -274.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/200.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 201/267 · z -275.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/201.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 202/267 · z -276.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/202.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 203/267 · z -278.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/203.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 204/267 · z -279.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/204.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 205/267 · z -280.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/205.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 206/267 · z -281.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/206.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 207/267 · z -283.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/207.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 208/267 · z -284.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/208.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 209/267 · z -285.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/209.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 210/267 · z -286.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/210.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 211/267 · z -288.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/211.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 212/267 · z -289.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/212.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 213/267 · z -290.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/213.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 214/267 · z -291.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/214.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 215/267 · z -293.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/215.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 216/267 · z -294.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/216.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 217/267 · z -295.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/217.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 218/267 · z -296.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/218.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 219/267 · z -298.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/219.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 220/267 · z -299.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/220.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 221/267 · z -300.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/221.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 222/267 · z -301.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/222.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 223/267 · z -303.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/223.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 224/267 · z -304.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/224.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 225/267 · z -305.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/225.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 226/267 · z -306.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/226.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 227/267 · z -308.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/227.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 228/267 · z -309.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/228.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 229/267 · z -310.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/229.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 230/267 · z -311.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/230.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 231/267 · z -313.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/231.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 232/267 · z -314.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/232.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 233/267 · z -315.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/233.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 234/267 · z -316.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/234.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 235/267 · z -318.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/235.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 236/267 · z -319.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/236.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 237/267 · z -320.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/237.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 238/267 · z -321.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/238.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 239/267 · z -323.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/239.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 240/267 · z -324.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/240.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 241/267 · z -325.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/241.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 242/267 · z -326.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/242.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 243/267 · z -328.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/243.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 244/267 · z -329.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/244.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 245/267 · z -330.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/245.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 246/267 · z -331.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/246.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 247/267 · z -333.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/247.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 248/267 · z -334.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/248.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 249/267 · z -335.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/249.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 250/267 · z -336.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/250.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 251/267 · z -338.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/251.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 252/267 · z -339.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/252.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 253/267 · z -340.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/253.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 254/267 · z -341.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/254.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 255/267 · z -343.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/255.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 256/267 · z -344.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/256.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 257/267 · z -345.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/257.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 258/267 · z -346.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/258.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 259/267 · z -348.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/259.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 260/267 · z -349.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/260.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 261/267 · z -350.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/261.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 262/267 · z -351.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/262.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 263/267 · z -353.2 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/263.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 264/267 · z -354.4 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/264.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 265/267 · z -355.7 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/265.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 266/267 · z -356.9 mm"
+      },
+      {
+        "url": "/cases/lidc/LIDC-IDRI-0915/266.jpg",
+        "pixelSpacing": 0.703125,
+        "label": "Aksial 267/267 · z -358.2 mm"
+      }
+    ],
+    "regions": [
+      {
+        "findingKey": "nodule-1",
+        "slice": 148,
+        "x": 0.109375,
+        "y": 0.484375,
+        "width": 0.025390625,
+        "height": 0.02734375
+      },
+      {
+        "findingKey": "nodule-1",
+        "slice": 149,
+        "x": 0.103125,
+        "y": 0.483984375,
+        "width": 0.03789062500000001,
+        "height": 0.039843749999999956
+      },
+      {
+        "findingKey": "nodule-1",
+        "slice": 150,
+        "x": 0.0998046875,
+        "y": 0.4806640625,
+        "width": 0.04453125000000001,
+        "height": 0.04648437499999997
+      },
+      {
+        "findingKey": "nodule-1",
+        "slice": 151,
+        "x": 0.1017578125,
+        "y": 0.4806640625,
+        "width": 0.04257812500000001,
+        "height": 0.04648437499999997
+      },
+      {
+        "findingKey": "nodule-1",
+        "slice": 152,
+        "x": 0.109375,
+        "y": 0.486328125,
+        "width": 0.025390625,
+        "height": 0.02734375
+      }
+    ]
+  }
+]

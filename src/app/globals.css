@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* RadiologAI brend-buki (radiologai-html/assets/css/style.css bilan bir xil):
+   navy #0F1E3A + cyan #5ED3EE, Manrope (sarlavha) + Inter (matn). */
+@layer base {
+  :root {
+    --background: 220 46% 97%;        /* #F5F7FB */
+    --foreground: 219 59% 14%;        /* #0F1E3A navy */
+    --card: 0 0% 100%;
+    --card-foreground: 219 59% 14%;
+    --primary: 219 59% 14%;           /* navy */
+    --primary-foreground: 0 0% 100%;
+    --secondary: 210 40% 94%;         /* #EAF0F6 sand */
+    --secondary-foreground: 219 59% 14%;
+    --muted: 210 40% 94%;
+    --muted-foreground: 215 18% 43%;  /* #5B6B82 */
+    --accent: 192 81% 94%;            /* #E3F7FC cyan-100 */
+    --accent-foreground: 187 88% 22%; /* #075E6A */
+    --destructive: 0 74% 42%;         /* #B91C1C */
+    --destructive-foreground: 0 0% 100%;
+    --border: 216 28% 90%;            /* #DDE3EC */
+    --input: 216 28% 87%;
+    --ring: 188 85% 29%;              /* #0B7A8A cyan-ink */
+    --radius: 14px;
+  }
+  * { @apply border-border; }
+  html { -webkit-text-size-adjust: 100%; }
+  body { @apply bg-background text-foreground antialiased; font-size: 15px; line-height: 1.55; }
+  h1, h2, h3 { font-family: var(--font-display), var(--font-sans), system-ui, sans-serif; letter-spacing: -0.02em; }
+  :focus-visible { outline: 3px solid #0B7A8A; outline-offset: 2px; }
+  input[type="checkbox"], input[type="radio"], input[type="range"] { accent-color: #0F1E3A; }
+}
+
+mark.hl-correct { @apply rounded px-0.5 text-inherit; background: #E7F6EC; color: #14532D; }
+mark.hl-partial { @apply rounded px-0.5 text-inherit; background: #FDF1DC; color: #7A3E06; }
+mark.hl-wrong { @apply rounded px-0.5 text-inherit; background: #FDE8E8; color: #7F1D1D; }
+
+/* Qovurg'a naqshi (landing / kirish sahifasi uchun) */
+.has-pattern { background-image: url("/brand/pattern-qovurga-tile.svg"); background-size: 160px 40px; }
+
+/* Chop etish: faqat xulosa matni (navigatsiya va yon panel yashiriladi) */
+@media print {
+  aside, header { display: none !important; }
+  body, main { background: #fff !important; overflow: visible !important; height: auto !important; }
+  .h-screen { height: auto !important; overflow: visible !important; }
+}

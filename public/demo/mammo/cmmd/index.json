@@ -1,0 +1,20 @@
+[
+ {
+  "title": "Haqiqiy DICOM: D1-0001",
+  "files": [
+   "cmmd-d1-0001_r_cc.dcm",
+   "cmmd-d1-0001_r_mlo.dcm"
+  ],
+  "clinicalInfo": "CMMD (TCIA, CC BY 4.0) bemor D1-0001.",
+  "age": 44
+ },
+ {
+  "title": "Haqiqiy DICOM: D1-1635",
+  "files": [
+   "cmmd-d1-1635_l_cc.dcm",
+   "cmmd-d1-1635_l_mlo.dcm"
+  ],
+  "clinicalInfo": "CMMD (TCIA, CC BY 4.0) bemor D1-1635.",
+  "age": 60
+ }
+]
